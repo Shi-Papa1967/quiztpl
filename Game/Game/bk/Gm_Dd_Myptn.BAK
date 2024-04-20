@@ -1,0 +1,344 @@
+<HTML>
+<TITLE>ドンドンの電パ</TITLE>
+
+<body bgcolor="#FFFFFF">
+<img src="../../Image/dummy.gif" width="550" height="1"><BR><!-- #BeginLibraryItem "/Game/Library/&#12490;&#12499;&#12466;&#12540;&#12471;&#12519;&#12531;&#12496;&#12540;.lbi" --><font face="ゴシック,Osaka"><NOBR><FONT SIZE="1" COLOR="#">[<A HREF="../../index.shtml">トップページ</A>][ 
+<A HREF="../../ArcLink/index.html">戻る</A>][<a href="http://ya.sakura.ne.jp/~tpl/mewbbs/mewbbs.cgi" target="_top">掲示板</a>]</FONT></NOBR></font><!-- #EndLibraryItem --><BR>
+
+<CENTER><FONT SIZE="6">｢クイズイントロDON!DON!｣電源パターン</FONT><BR>
+LAST UPDATE 98.01.29
+</CENTER><BR>
+<Table Border=0 CellSpacing=0 CellPadding=4>
+<TR>
+    <TD Width=300 BGColor="#60A060" > <img src="../../Image/dummy.gif" align="LEFT" width="10" height="1"> 
+      <B><FONT SIZE="2" FACE="ゴシック" COLOR="#FFFFFF">概要</FONT></B> </TD>
+  <TD Width=20 BGColor="#7FB37F"><BR></TD>
+  <TD Width=20 BGColor="#9FC69F"><BR></TD>
+  <TD Width=20 BGColor="#BFD9BF"><BR></TD>
+  <TD Width=20 BGColor="#DFECDF"><BR></TD>
+</TR>
+</Table>
+<UL>
+このパターンを使うと、<BR>
+正答率　９６．２％、回答平均時間　０’５７”、パネル獲得率　６６．３％、点数　９９９，９００<BR>
+が取れます。（ただし回答平均時間はボタンにシンクロ連射を付けたときの計測値です。）<BR>
+</UL>
+
+<Table Border=0 CellSpacing=0 CellPadding=4>
+<TR>
+    <TD Width=300 BGColor="#60A060" > <img src="../../Image/dummy.gif" align="LEFT" width="10" height="1"> 
+      <B><FONT SIZE="2" FACE="ゴシック" COLOR="#FFFFFF">まず準備から</FONT></B> </TD>
+  <TD Width=20 BGColor="#7FB37F"><BR></TD>
+  <TD Width=20 BGColor="#9FC69F"><BR></TD>
+  <TD Width=20 BGColor="#BFD9BF"><BR></TD>
+  <TD Width=20 BGColor="#DFECDF"><BR></TD>
+</TR>
+</Table>
+<UL>
+この電源パターンを実行するには、以下の物が必要です。<BR>
+<UL>
+<LI>このゲームの入った電源が切れる筐体<BR>
+<LI>理解あるお店
+</UL>
+その他に、以下の物があるとなおやりやすいでしょう。<BR>
+<UL>
+<LI>１Ｐ，回答選択ボタンのシンクロ連射
+</UL>
+</UL>
+<Table Border=0 CellSpacing=0 CellPadding=4>
+<TR>
+    <TD Width=300 BGColor="#60A060" > <img src="../../Image/dummy.gif" align="LEFT" width="10" height="1"> 
+      <B><FONT SIZE="2" FACE="ゴシック" COLOR="#FFFFFF">どうやってやるのか？</FONT></B> </TD>
+  <TD Width=20 BGColor="#7FB37F"><BR></TD>
+  <TD Width=20 BGColor="#9FC69F"><BR></TD>
+  <TD Width=20 BGColor="#BFD9BF"><BR></TD>
+  <TD Width=20 BGColor="#DFECDF"><BR></TD>
+</TR>
+</Table>
+<UL>
+①  筐体の電源をオフ・オンします。（基盤保護のため、オフしてから１０秒以上まってからオンすること）<BR>
+②  ……SLOT　１［ＩＮＴＲＯＤＯＮ！ＤＯＮ！］……の画面表示中にコインを投入します。<BR>
+     （ものすごくうるさいクレジット音がしますが、気にしないでください）<BR>
+③  １Ｐボタンを連打し、ゲーム画面になったと同時にゲームスタートするようにします。<BR>
+④  マップ画面で選びたいパネルまでカーソルを動かし、時間切れまで待ちます。<BR>
+⑤  問題が同一となるので正解を選択します。<BR>
+<BR>
+<FONT COLOR="#FF0000">注意！！</FONT><BR>
+電源パターンは、お店の人の許可を取ってからするようにしてください。<BR>
+尚、当方はこのやりかたを使った場合に発生する、<FONT COLOR="#FF0000">いかなる損害も保証しかねます</FONT>ので、<FONT COOR="#FF0000">自己の責任</FONT>において実行するようおねがいします。
+<BR>
+<BR>
+
+<H4>パターン表の見方</H4>
+各面左にある表に番号が記入されていますが、これは各面に入ってからの問題数を示しています。<BR>
+問題数と同じ位置（１問目ならば１、２問目ならば２）のますにカーソルを合わせ、勝手にますが選択されるまで待ちます。（表のない面（４～８面）については、デフォルトで選ばれたますを選択してください）<BR>
+ますが選ばれ、クイズが始まったら、適当なタイミングでクイズに答えます。答えは表の下に順番に書いてあります。
+番号の代わりにXのあるものは、わざと時間切れまで曲を流すようにしてください。<BR>
+<BR>
+<UL>
+<UL>
+<A HREF="#Stage1">１面（北海道ステージ）</A>、
+<A HREF="#Stage2">２面（東北ステージ）</A>、
+<A HREF="#Stage3">３面（関東ステージ）</A>、
+<A HREF="#Stage4">４面（関西ステージ）</A>、<BR>
+<A HREF="#Stage5">５面（中国ステージ）</A>、 　
+<A HREF="#Stage6">６面（四国ステージ）</A>、
+<A HREF="#Stage7">７面（九州ステージ）</A>、
+<A HREF="#Stage8">８面（決勝ステージ）</A>
+
+</UL>
+</UL>
+</UL>
+<HR>
+
+<H2><A NAME="Stage1">１面（北海道ステージ）</A>（ノルマ　パネル５枚）</H2>
+１面のノルマは５。ここではあえて得点を狙わないパターンとしている。まず、２時間半の長丁場である。まず手始めに、どうやってやればいいのか、その感覚をつかもう。<BR>
+<TABLE BORDER="4" CELLPADDING="4" CELLSPACING="2" BGCOLOR="white" ALIGN="LEFT">
+<TR ALIGN=LEFT VALIGN=TOP><TD WIDTH=45><BR>５<BR></TD>
+<TD WIDTH=45>音<BR></TD>
+<TD WIDTH=45><BR><BR></TD></TR>
+<TR ALIGN=LEFT VALIGN=TOP><TD WIDTH=45><BR>２</TD>
+<TD WIDTH=45><BR>１</TD>
+<TD WIDTH=45><BR></TD></TR>
+<TR ALIGN=LEFT VALIGN=TOP><TD WIDTH=45><BR>３</TD>
+<TD WIDTH=45>大昔<br>４</TD>
+<TD WIDTH=45><BR></TD></TR>
+</TABLE>
+
+<UL>
+<TABLE BORDER=0>
+<TR><TD>１．　２　武田鉄也、芦川よしみ<BR></TD></TR>
+<TR><TD>２．　２　五木ひろし<BR></TD></TR>
+<TR><TD>３．　１　夢をみたいから<BR></TD></TR>
+<TR><TD>４．　４　ウエディング・ベル<BR></TD></TR>
+<TR><TD>５．　４　とんぼ<BR></TD></TR>
+</TABLE>
+</UL>
+<BR CLEAR="ALL">
+<HR>
+<H2><A NAME="Stage2">２面（東北ステージ）</A>（ノルマ　パネル１３枚）</H2>
+５×５の登場する最初の面。ここでは９枚めくり、５１１０００点を狙う。パネルを決定する時に時間切れまで待つのに慣れよう。
+<BR>
+<TABLE BORDER="4" CELLPADDING="4" CELLSPACING="2" BGCOLOR="white" ALIGN="LEFT">
+<TR ALIGN=LEFT VALIGN=TOP><TD WIDTH=45><BR>14<BR></TD>
+<TD WIDTH=45>邦楽<BR>４ 姫<BR></TD>
+<TD WIDTH=45><BR>３<BR></TD>
+<TD WIDTH=45><BR>５<BR></TD>
+<TD WIDTH=45>音<BR>20<BR></TD></TR>
+<TR ALIGN=LEFT VALIGN=TOP><TD WIDTH=45>最近<BR>15<BR></TD>
+<TD WIDTH=45>昔<BR><BR></TD>
+<TD WIDTH=45><BR>２<BR></TD>
+<TD WIDTH=45><BR>９<BR></TD>
+<TD WIDTH=45>演歌<BR>13坊<BR></TD></TR>
+<TR ALIGN=LEFT VALIGN=TOP><TD WIDTH=45>ＴＶ<BR>16<BR></TD>
+<TD WIDTH=45>アニ<BR>６<BR></TD>
+<TD WIDTH=45><BR>１<BR></TD>
+<TD WIDTH=45>クラ<BR>10<BR></TD>
+<TD WIDTH=45><BR>11<BR></TD></TR>
+<TR ALIGN=LEFT VALIGN=TOP><TD WIDTH=45>大昔<BR>17<BR></TD>
+<TD WIDTH=45><BR>７<BR></TD>
+<TD WIDTH=45><BR><BR></TD>
+<TD WIDTH=45><BR><BR></TD>
+<TD WIDTH=45><BR>12<BR></TD></TR>
+<TR ALIGN=LEFT VALIGN=TOP><TD WIDTH=45><BR>19姫<BR></TD>
+<TD WIDTH=45><BR>８ 姫<BR></TD>
+<TD WIDTH=45><BR><BR></TD>
+<TD WIDTH=45><BR><BR></TD>
+<TD WIDTH=45><BR>18<BR></TD></TR>
+</TABLE>
+
+<UL>
+<TABLE BORDER=0>
+<TR><TD>１．　１　佐野元春<BR></TD></TR>
+<TR><TD>２．　３　輝きながら…<BR></TD></TR>
+<TR><TD>３．　２　シュラバ☆ラ☆ランバ<BR></TD></TR>
+<TR><TD>４．　１　中森明菜<BR></TD></TR>
+<TR><TD>５．　４　雨のリグレット<BR></TD></TR>
+<TR><TD>６．　３　サッカー<BR></TD></TR>
+<TR><TD>７．　１　ペンギン<BR></TD></TR>
+<TR><TD>８．　３　君がいなけりゃ夜は暗い<BR></TD></TR>
+<TR><TD>９．　２　桜井　賢<BR></TD></TR>
+<TR><TD>10．　４　アメリカ<BR></TD></TR>
+<TR><TD>11．　４　ＳＭＡＰ<BR></TD></TR>
+<TR><TD>12．　４　守ってあげたい<BR></TD></TR>
+<TR><TD>13．　×　北の宿から<BR></TD></TR>
+<TR><TD>14．　２　未来のために<BR></TD></TR>
+<TR><TD>15．　×　ガラスの様にせつない心を<BR></TD></TR>
+<TR><TD>16．　３　出逢った頃の君でいて<BR></TD></TR>
+<TR><TD>17．　×　なつかしい痛みだわ<BR></TD></TR>
+<TR><TD>18．　３　あー果てしない夢を<BR></TD></TR>
+<TR><TD>19．　４　北酒場<BR></TD></TR>
+<TR><TD>20．　１　拍手<BR></TD></TR>
+</TABLE>
+</UL>
+
+
+<HR>
+<H2><A NAME="Stage3">３面（関東ステージ）</A>（ノルマ　パネル１３枚）</H2>
+この面で２回目の９枚めくりをする。これでスコア自体はカンストだ。時間にして約１時間かかるはず。
+<TABLE BORDER="4" CELLPADDING="4" CELLSPACING="2" BGCOLOR="white" ALIGN="LEFT">
+<TR ALIGN=LEFT VALIGN=TOP><TD WIDTH=45><BR>21姫<BR></TD>
+<TD WIDTH=45><BR>４<BR></TD>
+<TD WIDTH=45><BR>５<BR></TD>
+<TD WIDTH=45>音<BR>６<BR></TD>
+<TD WIDTH=45><BR>20<BR></TD></TR>
+<TR ALIGN=LEFT VALIGN=TOP><TD WIDTH=45>童謡<BR>11<BR></TD>
+<TD WIDTH=45>クラ<BR>３ 姫<BR></TD>
+<TD WIDTH=45>
+<BR>13<BR>
+</TD>
+<TD WIDTH=45>邦楽<BR><BR></TD>
+<TD WIDTH=45><BR>19<BR></TD></TR>
+<TR ALIGN=LEFT VALIGN=TOP><TD WIDTH=45>昔<BR>12坊<BR></TD>
+<TD WIDTH=45><BR>２<BR></TD>
+<TD WIDTH=45><BR>１<BR></TD>
+<TD WIDTH=45>演歌<BR>７<BR></TD>
+<TD WIDTH=45>ＣＭ<BR>18<BR></TD></TR>
+<TR ALIGN=LEFT VALIGN=TOP><TD WIDTH=45><BR>10姫<BR></TD>
+<TD WIDTH=45>大昔<BR>９<BR></TD>
+<TD WIDTH=45><BR>16<BR></TD>
+<TD WIDTH=45><BR>８<BR></TD>
+<TD WIDTH=45><BR>14<BR></TD></TR>
+<TR ALIGN=LEFT VALIGN=TOP><TD WIDTH=45><BR>19<BR></TD>
+<TD WIDTH=45><BR><BR></TD>
+<TD WIDTH=45>ＴＶ<BR><BR></TD>
+<TD WIDTH=45><BR><BR></TD>
+<TD WIDTH=45>アニ<BR>15<BR></TD></TR>
+</TABLE>
+
+<UL>
+<TABLE BORDER=0>
+<TR><TD>１．　２　第５代目<BR></TD></TR>
+<TR><TD>２．　１　ダンスはうまく踊れない<BR></TD></TR>
+<TR><TD>３．　１　英雄「ポロネーズ」<BR></TD></TR>
+<TR><TD>４．　４　愛するということ<BR></TD></TR>
+<TR><TD>５．　２　ＣＨＡ－ＬＡ　ＨＥＡＤ－ＣＨＡ－ＲＡ<BR></TD></TR>
+<TR><TD>６．　３　ピッコロ<BR></TD></TR>
+<TR><TD>７．　３　伊豆半島<BR></TD></TR>
+<TR><TD>８．　４　部屋とＹシャツと私<BR></TD></TR>
+<TR><TD>９．　１　上を向いて歩こう<BR></TD></TR>
+<TR><TD>10．　４　サザンオールスターズ<BR></TD></TR>
+<TR><TD>11．　３　メリーさんのひつじ<BR></TD></TR>
+<TR><TD>12．　×　燃えてヒーロー<BR></TD></TR>
+<TR><TD>13．　４　ＮＡＩ－ＮＡＩ－ＮＡＩ　恋じゃＮＡＩ<BR></TD></TR>
+<TR><TD>14．　４　日清ＵＦＯ焼きソバ<BR></TD></TR>
+<TR><TD>15．　２　さらば地球よ<BR></TD></TR>
+<TR><TD>16．　×　きまぐれオレンジ☆ロード<BR></TD></TR>
+<TR><TD>17．　３　ワーグナー<BR></TD></TR>
+<TR><TD>18．　３　ＢＯＳＳ<BR></TD></TR>
+<TR><TD>19．　２　いつも一緒にいたかった<BR></TD></TR>
+<TR><TD>20．　２　カリフォルニア・コネクション<BR></TD></TR>
+<TR><TD>21．　２　クリスタルキング<BR></TD></TR>
+</TABLE></UL>
+
+
+<HR>
+<H2><A NAME="Stage4">４面（関西ステージ）</A>（ノルマ　パネル１３枚）</H2>
+もはや消化試合。間違う可能性はないので、気合でやるべし。
+<UL>
+<TABLE BORDER=0>
+<TR><TD>１．　３　ＷＩＮＫ<BR></TD></TR>
+<TR><TD>２．　３　クツワムシ<BR></TD></TR>
+<TR><TD>３．　４　ジグザグ気取った都会の<BR></TD></TR>
+<TR><TD>４．　２　春よ来い<BR></TD></TR>
+<TR><TD>５．　３　資生堂<BR></TD></TR>
+<TR><TD>６．　２　恋人がサンタクロース<BR></TD></TR>
+<TR><TD>７．　３　ＣＲＡＺＹ　ＧＯＮＮＡ　ＣＲＡＺＹ　雪が<BR></TD></TR>
+<TR><TD>８．　３　堀江美都子<BR></TD></TR>
+<TR><TD>９．　３　歪んだ煙みつめながら<BR></TD></TR>
+<TR><TD>10．　１　ＹＡＨ　ＹＡＨ　ＹＡＨ<BR></TD></TR>
+<TR><TD>11．　４　さよならは別れの<BR></TD></TR>
+<TR><TD>12．　３　昭和４８年<BR></TD></TR>
+<TR><TD>13．　１　４０５枚<BR></TD></TR>
+</TABLE></UL>
+
+<HR>
+<H2><A NAME="Stage5">５面（中国ステージ）</A></H2>
+やっと半分。あと４面なり。
+<UL>
+<TABLE BORDER=0>
+<TR><TD>１．　２　湘北<BR></TD></TR>
+<TR><TD>２．　１　サハラの夕日を<BR></TD></TR>
+<TR><TD>３．　２　太陽の季節<BR></TD></TR>
+<TR><TD>４．　４　鐘紡<BR></TD></TR>
+<TR><TD>５．　２　昭和５２年<BR></TD></TR>
+<TR><TD>６．　２　ＰＩＥＣＥ　ＯＦ　ＭＹ　ＷＩＳＨ<BR></TD></TR>
+<TR><TD>７．　１　マツムシ<BR></TD></TR>
+<TR><TD>８．　１　ＨＥＲＯ、ヒーローになる時<BR></TD></TR>
+<TR><TD>９．　３　これっきりこれっきりもう<BR></TD></TR>
+<TR><TD>10．　２　ギター<BR></TD></TR>
+<TR><TD>11．　３　めだかの学校は川の中<BR></TD></TR>
+<TR><TD>12．　４　浜田省吾<BR></TD></TR>
+<TR><TD>13．　２　いつもならアナタの<BR></TD></TR>
+</TABLE></UL>
+
+<HR>
+<H2><A NAME="Stage6">６面（四国ステージ）</A>（ノルマ　パネル１３枚）</H2>
+この辺、ダレてくる。オペミスで間違わないように。ちなみに当時、この辺は１時間半で１問しか進まなかった気がする。
+<UL>
+<TABLE BORDER=0>
+<TR><TD>１．　４　ためいきのでるような<BR></TD></TR>
+<TR><TD>２．　１　恋するには遅すぎると<BR></TD></TR>
+<TR><TD>３．　３　とぼけた顔にバンバンバン<BR></TD></TR>
+<TR><TD>４．　３　山へ行こう次の日曜<BR></TD></TR>
+<TR><TD>５．　１　もう笑うしかない！<BR></TD></TR>
+<TR><TD>６．　３　かあさん<BR></TD></TR>
+<TR><TD>７．　４　福井県<BR></TD></TR>
+<TR><TD>８．　２　月が波間に浮かぶと<BR></TD></TR>
+<TR><TD>９．　１　ある日森の中<BR></TD></TR>
+<TR><TD>10．　４　時任三郎<BR></TD></TR>
+<TR><TD>11．　４　ハートを磨くっきゃない<BR></TD></TR>
+<TR><TD>12．　１　セカンドラブ<BR></TD></TR>
+<TR><TD>13．　２　ベルベット・イースター<BR></TD></TR>
+</TABLE>
+</UL>
+
+<HR>
+<H2><A NAME="Stage7">７面（九州ステージ）</A>（ノルマ　パネル１３枚）</H2>
+のこりは２面。ゴールまで後少し。がんばるべし。
+<UL>
+<TABLE BORDER=0>
+<TR><TD>１．　４　高橋ひろ<BR></TD></TR>
+<TR><TD>２．　３　ジャズアルトサックス奏者<BR></TD></TR>
+<TR><TD>３．　３　日航<BR></TD></TR>
+<TR><TD>４．　１　歌劇「カルメン」<BR></TD></TR>
+<TR><TD>５．　４　松雪泰子<BR></TD></TR>
+<TR><TD>６．　１　きっと忘れない<BR></TD></TR>
+<TR><TD>７．　３　西城秀樹<BR></TD></TR>
+<TR><TD>８．　３　Ｍｒ．Ｃｈｉｌｄｒｅｎ<BR></TD></TR>
+<TR><TD>９．　３　近藤真彦<BR></TD></TR>
+<TR><TD>10．　１　岸田智史<BR></TD></TR>
+<TR><TD>11．　１　この愛に泳ぎつかれても<BR></TD></TR>
+<TR><TD>12．　２　２声のインヴィンション<BR></TD></TR>
+<TR><TD>13．　１　水谷豊<BR></TD></TR>
+</TABLE></UL>
+
+<HR>
+<H2><A NAME="Stage8">８面（決勝ステージ）</A>（ノルマ　パネル１３枚）</H2>
+やっときた最終面。一応全国大会らしく、背景は他の面よりはいい雰囲気。全面クリアまであと１３問。がんがろう。
+<UL>
+<TABLE BORDER=0>
+<TR><TD>１．　３　思いきり伝えたい<BR></TD></TR>
+<TR><TD>２．　１　草原の輝き<BR></TD></TR>
+<TR><TD>３．　３　にじむ街の灯を<BR></TD></TR>
+<TR><TD>４．　２　ド・レ・ミ・ファ・ソ・ラ・シ<BR></TD></TR>
+<TR><TD>５．　２　あなたは光シャルロット<BR></TD></TR>
+<TR><TD>６．　３　夢一途に愛されても<BR></TD></TR>
+<TR><TD>７．　４　プータロー<BR></TD></TR>
+<TR><TD>８．　４　海<BR></TD></TR>
+<TR><TD>９．　４　メリーさんの羊<BR></TD></TR>
+<TR><TD>10．　３　北の蛍<BR></TD></TR>
+<TR><TD>11．　４　愛は空<BR></TD></TR>
+<TR><TD>12．　２　オヨネーズ<BR></TD></TR>
+<TR><TD>13．　３　５２万枚<BR></TD></TR>
+</TABLE></UL>
+
+
+<HR>
+<H2><A NAME="Endding">エンディングなど</A></H2>
+クリア後、エンディングとなる。これがまた．．．あまり感動とはいえないですね、これは。
+あとお笑いなのがハイスコア画面。何故かカンストした点数が２番目などにきたりする。最初から最後まで怪しいのだ。
+<HR>
+<H6 ALIGN=RIGHT><A HREF="index.html">戻る</A></H6>
+</BODY>
+</HTML>

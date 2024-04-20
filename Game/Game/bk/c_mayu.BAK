@@ -1,0 +1,590 @@
+<!--header start-->
+<html>
+<head>
+</head><body bgcolor="#FFFFFF"><font face="ゴシック,Osaka">
+ <img src="../../Image/dummy.gif" width="550" height="1"><BR>
+<NOBR><FONT SIZE="-3" COLOR="#"><!-- #BeginLibraryItem "/Game/Library/&#12490;&#12499;&#12466;&#12540;&#12471;&#12519;&#12531;&#12496;&#12540;.lbi" --><font face="ゴシック,Osaka"><NOBR><FONT SIZE="1" COLOR="#">[<A HREF="../../index.shtml">トップページ</A>][ 
+<A HREF="../../ArcLink/index.html">戻る</A>][<a href="http://ya.sakura.ne.jp/~tpl/mewbbs/mewbbs.cgi" target="_top">掲示板</a>]</FONT></NOBR></font><!-- #EndLibraryItem --></FONT></NOBR> <BR>
+<div align="center">
+<!--contents start-->
+<BR>
+
+<table border="0" width="620">
+<tr bgcolor="#60A060"><th>
+	<B><FONT SIZE="2" FACE="ゴシック" COLOR="#FFFFFF">東鳩真由美</FONT></B>
+</th></tr>
+<tr><td>
+<p>
+意外にイベントの多いこのキャラ。しかし自分はプラネタリウムのイベントで苦戦したという思い出しかないかも。（謎）
+<H4>★ＤＡＴＡ</H4>
+<CENTER>
+<table border="2" cellspacing="0" bgcolor="#ffffff">
+<tr>
+<td bgcolor="#DFECDF" width="120"><B>総イベント数</B>
+<td width="80">３２
+</tr>
+
+<tr>
+<td bgcolor="#DFECDF"><B>必要イベント数</B>
+<td>１２
+</tr>
+
+<tr>
+<td bgcolor="#DFECDF"><B>固有ジャンルセレクト</B>
+<td>
+ジャンセレしない<BR>
+<B>英語</B><BR>
+理系<BR>
+文系<BR>
+マンガ<BR>
+アニメ
+
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF" colspan="2">デート先評価がいい所</th>
+</tr>
+
+<tr>
+<td colspan="2">
+学校・中華街・図書館
+
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF" colspan="2">その他</th>
+</tr>
+
+<tr>
+<td colspan="2">
+
+
+</tr>
+
+</table>
+</CENTER>
+<BR clear=ALL>
+
+<H4>★ランダム・イベント</H4>
+ノルマは全て３です。
+
+<H4>★ストーリー・イベント</H4>
+
+<CENTER>
+<table border="2" cellspacing="0" bgcolor="#ffffff">
+<tr>
+<th bgcolor="#DFECDF"><B>１</B></table></center></td>
+<td width="300">初接触</td>
+<td bgcolor="#DFECDF" width="100"><B>ノルマ　３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+「学校かあ、オレって勉強しなくてもいいのかな、・・・ちょっと入ってみよう<BR>
+真由美「<FONT COLOR="#FF0000">マナブ</FONT>くん<BR>
+「あ、東鳩先生！<BR>
+（クイズ）<BR>
+真由美「<FONT COLOR="#FF0000">マナブ</FONT>くん、お勉強してるかしら？<BR>
+「え？は、はい。<BR>
+真由美「ちゃんとお勉強してね
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>２</B>
+<td>先生とのデート先</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+「あ、先生こんにちは！<BR>
+真由美「はい、こんにちは、<FONT COLOR="#FF0000">マナブ</FONT>くん<BR>
+「お出かけですか？<BR>
+真由美「ええ、・・・そうだ<FONT COLOR="#FF0000">マナブ</FONT>くんもいらっしゃいよ。デートしましょう<BR>
+「はい（おお！急展開）。で、どこへ行くんですか？<BR>
+真由美「ここよ<BR>
+（クイズ）<BR>
+「デートって図書館ですか・・・<BR>
+真由美「そうよ、楽しいわよぉ
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>３</B>
+<td>街角の奇跡１</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+一般人Ａ「大変だ！火事でおばあさんが取り残されたらしいぞ！<BR>
+一般人Ｂ「いってみよう<BR>
+　　　　　　がやがやがや<BR>
+真由美「あら、<FONT COLOR="#FF0000">マナブ</FONT>くん<BR>
+（クイズ）<BR>
+「先生、向こうで火事があったみたいですよ<BR>
+真由美「あらそう？<BR>
+一般人Ｃ「よかった、なんだか奇跡的に助かったみたいだよ<BR>
+一般人Ｄ「ほんと、よかった<BR>
+「あ、助かったみたいだ<BR>
+真由美「大変だったみたいねえ
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>４</B>
+<td>街角の奇跡２</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+一般人Ａ「大変だー！ビルの屋上で男が飛び降りようとしてるってよ！<BR>
+一般人Ｂ「おい、見に行こうぜ！<BR>
+　　　　　　がやがやがや<BR>
+真由美「<FONT COLOR="#FF0000">マナブ</FONT>くん、どうしたの<BR>
+（クイズ）<BR>
+「先生、今そこで大変なことがあったみたいですよ<BR>
+真由美「あらそう？<BR>
+一般人Ｃ「よかった、なんだか奇跡的に助かったみたいだよ<BR>
+一般人Ｄ「落ちた場所が良かったのかしら<BR>
+「飛び降りがあったらしいんですけど、助かったみたいです<BR>
+真由美「あら、良かったわね<BR>
+「どうでもいいけど先生、事件があると出てきますね<BR>
+真由美「あら、偶然よぉ
+</td>
+</tr>
+
+
+<tr>
+<th bgcolor="#DFECDF"><B>５</B>
+<td>それじゃあデート</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３＋３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+真由美「<FONT COLOR="#FF0000">マナブ</FONT>くん、珍しいわね。お勉強？<BR>
+「え？ま、まあ<BR>
+（クイズ）<BR>
+真由美「えらい、えらい<BR>
+「じゃあ、ご褒美ください<BR>
+真由美「まっ、学生はお勉強するのが本当なのよ。・・・でもガンバってるみたいだから<BR>
+「なんかくれるんですか？<BR>
+真由美「遊園地に連れていってあげます。いやですか？<BR>
+「いえ！よろこんで<BR>
+（クイズ）<BR>
+真由美「楽しかったねー<BR>
+｢先生、オレより喜んでない？<BR>
+真由美「たまにはね
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>６</B>
+<td>ばれちゃった</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+真由美「今日は歴史のお勉強もかねて古い町並みを丹作します<BR>
+（クイズ）<BR>
+「あれえ、先生どこに行っちゃったんだろう？せんせー、せんせー！<BR>
+一般人Ａ「あ、猫がおぼれてるぞ！<BR>
+一般人Ｂ「大変！誰か助けてあげて<BR>
+「なんか騒いでるぞ、行ってみよう<BR>
+「あれ、先生？<BR>
+「先生じゃないですか、何やってんですか？<BR>
+真由美「・・・。<BR>
+「猫が浮いてる・・・<BR>
+「先生の持ってるステッキはいったい？<BR>
+真由美「み、み、み、見たのね！<BR>
+「せ、せ、せ、先生チョット待った！<BR>
+真由美「イヤーッ！<BR>
+バチン！<BR>
+（クイズ）
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>７</B>
+<td>実はわたし</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３＋３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+真由美「<FONT COLOR="#FF0000">マナブ</FONT>くん、ちょっと話があるの・・・<BR>
+「なんですか？もしかしてこの前の？<BR>
+真由美「この前はごめんなさいね、わたし気が動転しちゃって<BR>
+「いいですよそんなこと、それより先生あれはいったい？<BR>
+真由美「びっくりしたでしょ、実はわたし・・・<BR>
+真由美「魔法使いなの！<BR>
+真由美「ジャーン、なんちて・・・。びっくりした？<BR>
+（クイズ）<BR>
+「どういう事なんですか？<BR>
+真由美「わたしって魔法の国から修行に来てるのよ<BR>
+真由美「むやみに魔法を使っちゃいけないんだけど<BR>
+真由美「覚えたてだから使いたくって・・・<BR>
+「隠れて使ってるんだ<BR>
+真由美「うん。お願い、誰にも喋らないで！
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>８</B>
+<td>プラネタイベント</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３＋３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+「先生、元気出してよ<BR>
+真由美「ガマンすればするほど魔法が使いたくって・・・<BR>
+「きれいな星でもみて忘れよう！<BR>
+真由美「うん・・・。<BR>
+（クイズ）<BR>
+客Ａ「・・・きれいだねえ<BR>
+客Ｂ「・・・そうねえ<BR>
+客Ｃ「あ、流れ星<BR>
+客Ｄ「ほんと！きれい<BR>
+客Ｂ「キャー！<BR>
+客Ｄ「どうなってるの！助けてーっ！<BR>
+「どうなってるんだ？先生、危ないから出よう。・・・先生？<BR>
+（クイズ）<BR>
+「先生、なにやってんの！<BR>
+真由美「もう、どうなってもいいの！ガマン出来ない<BR>
+　　　「キャー！<BR>
+　　　「にげろー！
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>９</B>
+<td>大変なのよお</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３＋５</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+プルルルルー、プルルルルー、<BR>
+ガチャ！<BR>
+「はい！<FONT COLOR="#FF0000">マナブ</FONT>ですけどー<BR>
+真由美「<FONT COLOR="#FF0000">マナブ</FONT>くん？今すぐ公園に来てぇ<BR>
+ガチャ！<BR>
+「なんだあ？<BR>
+<BR>
+「先生？先生どうしたんですかこれは。まさかまた魔法で・・・。<BR>
+真由美「<FONT COLOR="#FF0000">マナブ</FONT>くーん、げんきぃ？<BR>
+「先生、こんなことしてていいんですか！？<BR>
+真由美「わたし魔法免許取り上げられちゃうかもしれないの。<BR>
+真由美「ばれちゃったのよぉ　隠れて魔法使ってるのが<BR>
+真由美「・・・どうしよう<BR>
+（クイズ）<BR>
+「だからって酔っ払ってどうするんですか？<BR>
+真由美「だってぇー、うぇっ<BR>
+「せ、先生しっかりして！<BR>
+真由美「<FONT COLOR="#FF0000">マナブ</FONT>くーん<BR>
+「あ、先生！<BR>
+真由美「どうしよう・・・。<BR>
+「先生（あ、いいにおい・・・）<BR>
+真由美「・・・。<BR>
+「先生？・・・あっ、ちょっと！先生！！
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>１０</B>
+<td>怒ってる？</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+真由美「<FONT COLOR="#FF0000">マナブ</FONT>くんこんにちは<BR>
+（クイズ）<BR>
+真由美「公園のこと怒ってる？<BR>
+「怒ってませんけど、ちゃんとガマンしてますか？魔法。<BR>
+真由美「うん、ガマンしてる。でも・・・
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>１１</B>
+<td>先生倒れる！</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+真由美「<FONT COLOR="#FF0000">マナブ</FONT>くん、こんにちは<BR>
+「こんにちは（ああ、相当きてるな、こりゃ）<BR>
+（クイズ）<BR>
+真由美「魔法、使いたい・・・<BR>
+「先生しっかりしてよ！<BR>
+真由美「ま、ほ、う、・・・。<BR>
+「あ、先生！<BR>
+「先生！先生！しっかりしてよ
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>１２</B>
+<td>大活躍！！</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３＋５</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+リンツ「学校の先生にもいれあげてんだってねえ、忙しいねえ<FONT COLOR="#FF0000">マナブ</FONT>も<BR>
+「うるせえ！邪魔すんな。世界の平和がかかってるんだよ！<BR>
+リンツ世界の平和なんて言って、楽しんでるだけじゃないの？<BR>
+謎の声「ふふふふふ、見つけたわよ！<BR>
+リンツ｢誰だ！<BR>
+謎の声「見つけたのよついに、・・・無条件で魔法が使える所を！<BR>
+「魔法？・・・先生？<BR>
+真由美「ジャーン！<BR>
+（クイズ）<BR>
+真由美「<FONT COLOR="#FF0000">マナブ</FONT>くん、そうならそうと言ってくれなきゃあ！<BR>
+「？<BR>
+真由美「魔法って悪いやつが相手なら無条件で使える決まりなのよ！<BR>
+「先生、なんかすごく喜んでませんか？<BR>
+真由美「ふふふ、だって滅多にないわよこんなチャンス！<BR>
+リンツ「なんだか知らないけど相手になってやる、いくよ！<BR>
+真由美「こっちこそ、いくわよ！<BR>
+（クイズ）<BR>
+リンツ「今日のところは引き下がっておくよ<FONT COLOR="#FF0000">マナブ</FONT>、それに先生！<BR>
+真由美「あースッキリしたぁ、また呼んでね<FONT COLOR="#FF0000">マナブ</FONT>くん！<BR>
+<BR>
+クリスタルが輝きだした。二人の気持ちに反応している<BR>
+妖精「やったわね！クリスタルは必ず力を貸してくれるわ！
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>－</B>
+<td>エンディング</td>
+<td bgcolor="#DFECDF" align="center"><B>－</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+ゴティバ「ぐあああああああああああああああ！<BR>
+サキ「助けに来ました！<BR>
+ゴティバ「ぐあああああ、よくやった<FONT COLOR="#FF0000">マナブ</FONT>。<BR>
+ゴティバ「今回は封印されてやるがこの次は必ず完全復活してやるからな！<BR>
+サキ「あとは私にまかせて下さい！<BR>
+サキ「一人で魔王を倒すなんてすごいです！<BR>
+<BR>
+「か、勝った・・・<BR>
+妖精「おめでとう！さすが私の見込んだ勇者ね。必ず勝つと思ってたわ<BR>
+「俺一人の力じゃないよ。いろんな人が助けてくれたんだ。<BR>
+妖精「みんなあなたの努力の成果よ、ごくろうさま。<BR>
+「・・・いろいろあったけど、楽しい半年間だったなぁ<BR>
+「なんだか帰るのがもったいないや<BR>
+妖精「ふふーん、わかってるわよ、あなたの考えていることぐらい<BR>
+妖精「あの娘にもう一度会いたいんでしょ？<BR>
+「・・・うん<BR>
+妖精「まかせてっ！<BR>
+妖精「世界を救ってくれたお礼にあの娘のところにつれてってあげるわ<BR>
+妖精「でも、そこからはあなた自身の問題よ！<BR>
+<BR>
+（<FONT COLOR="#FF0000">マナブ</FONT>）<BR>
+真由美先生。<BR>
+この半年間色々な人に<BR>
+出会ったけど<BR>
+真由美先生といる時が<BR>
+一番楽しかった。<BR>
+ずっと一緒にいたい！<BR>
+この思いを彼女に伝えるんだ。<BR>
+よし、勇気をだして告白するぞ！<BR>
+<BR>
+「先生・・・<BR>
+真由美「・・・うれしい！<FONT COLOR="#FF0000">マナブ</FONT>くん<BR>
+　　　　　わたしって魔法使いだけどいいのね！<BR>
+真由美「こんな頼りないわたしを好きって言ってくれるなんて涙がでちゃう！<BR>
+真由美「一番頼れるのは<FONT COLOR="#FF0000">マナブ</FONT>くんだし、<BR>
+　　　　　そうなればいいなって思ってたの<BR>
+真由美「でも、先生と生徒だしダメかなって・・・<BR>
+真由美「大好き！<BR>
+「真由美さん！<BR>
+「断られたらどうしようってドキドキしてた<BR>
+「これからは先生って呼ばずに真由美さんって呼びます。いいでしょ？<BR>
+<BR>
+妖精「そして<FONT COLOR="#FF0000">マナブ</FONT>とのその後は・・・<BR>
+<BR>
+妖精「あいかわらず先生と<BR>
+妖精「魔法使いとの２重生活<BR>
+妖精「あ、<FONT COLOR="#FF0000">マナブ</FONT>とは結婚して”奥様は魔女”の３重生活になってるわ<BR>
+妖精「家庭では二児の母で上の女の子はサリー、下の子は男の子でカブ<BR>
+妖精「二人とも魔法は使えるみたいね<BR>
+<BR>
+おわり<BR>
+
+</td>
+</tr>
+
+
+</table>
+
+
+<H4>★ボイス・リスト</H4>
+
+<CENTER>
+<table border="2" cellspacing="0" bgcolor="#ffffff">
+<tr>
+<th bgcolor="#DFECDF" colspan="2">好感度５０未満</th>
+</tr>
+<tr>
+<th bgcolor="#DFECDF" width="100">場面</th>
+<th bgcolor="#DFECDF" width="200">ボイス</th>
+</tr>
+
+<tr>
+<th rowspan="3">問題</th>
+<td><b>よーく考えてね</b></td>
+</tr>
+
+<tr>
+<td><b>問題</b></td>
+</tr>
+
+<tr>
+<td><b>問題！</b></td>
+</tr>
+
+<tr>
+<th rowspan="2">正解</th>
+<td><b>正解</b></td>
+</tr>
+
+<tr>
+<td><b>正解！</b></td>
+</tr>
+
+<tr>
+<th rowspan="2">誤答</th>
+<td><b>ちがうわ</b></td>
+</tr>
+
+<tr>
+<td><b>あぁん、ダメねぇ</b></td>
+</tr>
+
+</table>
+</CENTER>
+<BR>
+
+<CENTER>
+<table border="2" cellspacing="0" bgcolor="#ffffff">
+<tr>
+<th bgcolor="#DFECDF" colspan="2">好感度５０以上</th>
+</tr>
+<tr>
+<th bgcolor="#DFECDF" width="100">場面</th>
+<th bgcolor="#DFECDF" width="200">ボイス</th>
+</tr>
+
+<tr>
+<th rowspan="4">問題</th>
+<td><b>もう分かったでしょ</b></td>
+</tr>
+
+<tr>
+<td><b>わかるでしょぉ？</b></td>
+</tr>
+
+<tr>
+<td><b>がんばって！</b></td>
+</tr>
+
+<tr>
+<td><b>ファイト！</b></td>
+</tr>
+
+<tr>
+<th rowspan="3">正解</th>
+<td><b>よくできました</b></td>
+</tr>
+
+<tr>
+<td><b>正解</b></td>
+</tr>
+
+<tr>
+<td><b>正解！</b></td>
+</tr>
+
+<tr>
+<th rowspan="2">誤答</th>
+<td><b>はぁん、ダメねぇ</b></td>
+</tr>
+
+<tr>
+<td><b>ああん、ダメねぇ</b></td>
+</tr>
+
+</table>
+</CENTER>
+<BR>
+<CENTER>
+<table border="2" cellspacing="0" bgcolor="#ffffff">
+<tr>
+<th bgcolor="#DFECDF" colspan="2">その他</th>
+</tr>
+<tr>
+<th bgcolor="#DFECDF" width="100">場面</th>
+<th bgcolor="#DFECDF" width="200">ボイス</th>
+</tr>
+
+<tr>
+<th>出現時</th>
+<td><b>こんにちは！</b></td>
+</tr>
+
+<tr>
+<th rowspan="3">解答催促時</th>
+<td><b>まだなの？</b></td>
+</tr>
+
+<tr>
+<td><b>時間がないわ</b></td>
+</tr>
+
+<tr>
+<td><b>早くっ</b></td>
+</tr>
+
+<tr>
+<th>クリア時</th>
+<td><b>予習忘れないでね</b></td>
+</tr>
+
+<tr>
+<th>告白ＯＫ時</th>
+<td><b>先生も大好きよ！</b></td>
+</tr>
+
+<tr>
+<th>エンディング時</th>
+<td><b>東鳩真由美っていうの</b></td>
+</tr>
+
+</table>
+</CENTER>
+
+<p></p>
+
+
+
+<br>
+
+<HR>
+<H6 ALIGN=RIGHT><A HREF="index.html">戻る</A></H6>
+  <img src="../../Image/dummy.gif" width="100%" height="4" border="0"> <!--contents end--><!--footer start--> 
+</div>
+</font></body>
+</html>
+<!--footer end-->

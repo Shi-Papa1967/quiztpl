@@ -1,0 +1,548 @@
+<!--header start-->
+<html>
+<head>
+</head><body bgcolor="#FFFFFF"><font face="ゴシック,Osaka">
+ <img src="../../Image/dummy.gif" width="550" height="1"><BR>
+<NOBR><FONT SIZE="-3" COLOR="#"><!-- #BeginLibraryItem "/Game/Library/&#12490;&#12499;&#12466;&#12540;&#12471;&#12519;&#12531;&#12496;&#12540;.lbi" --><font face="ゴシック,Osaka"><NOBR><FONT SIZE="1" COLOR="#">[<A HREF="../../index.shtml">トップページ</A>][ 
+<A HREF="../../ArcLink/index.html">戻る</A>][<a href="http://ya.sakura.ne.jp/~tpl/mewbbs/mewbbs.cgi" target="_top">掲示板</a>]</FONT></NOBR></font><!-- #EndLibraryItem --></FONT></NOBR> <BR>
+<div align="center">
+<!--contents start-->
+<BR>
+
+<table border="0" width="620">
+<tr bgcolor="#60A060"><th>
+	<B><FONT SIZE="2" FACE="ゴシック" COLOR="#FFFFFF">不二家桃子</FONT></B>
+</th></tr>
+<tr><td>
+<p>
+コードネーム「めがね」。ジャンセレ的には攻略しやすかったかも。
+<H4>★ＤＡＴＡ</H4>
+<CENTER>
+<table border="2" cellspacing="0" bgcolor="#ffffff">
+<tr>
+<td bgcolor="#DFECDF" width="120"><B>総イベント数</B>
+<td width="80">２５
+</tr>
+
+<tr>
+<td bgcolor="#DFECDF"><B>必要イベント数</B>
+<td>１１
+</tr>
+
+<tr>
+<td bgcolor="#DFECDF"><B>固有ジャンルセレクト</B>
+<td>
+ジャンセレしない<BR>
+芸能・音楽<BR>
+ホビー･趣味<BR>
+<B>雑学</B><BR>
+マンガ<BR>
+アニメ
+
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF" colspan="2">デート先評価がいい所</th>
+</tr>
+
+<tr>
+<td colspan="2">
+映画・カラオケ・プラネタリウム
+
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF" colspan="2">その他</th>
+</tr>
+
+<tr>
+<td colspan="2">
+ストーリー終了後、デート・イベントは発生しない。<BR>
+
+
+</tr>
+
+</table>
+</CENTER>
+<BR clear=ALL>
+
+<H4>★ランダム・イベント</H4>
+ノルマは全て３です。
+
+<H4>★ストーリー・イベント</H4>
+
+<CENTER>
+<table border="2" cellspacing="0" bgcolor="#ffffff">
+<tr>
+<th bgcolor="#DFECDF"><B>１</B></table></center></td>
+<td width="300">激突！</td>
+<td bgcolor="#DFECDF" width="100"><B>ノルマ　３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+桃子「いったぁーーー！<BR>
+（クイズ）<BR>
+桃子「ごめんなさーい、急いでたの、ごめんね！<BR>
+「そっちこそ大丈夫？<BR>
+桃子「私は平気・・・・・・あなたって私と話ができるのね<BR>
+「えっ！<BR>
+桃子「ううん！何でもないの、じゃっ！ またね
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>２</B>
+<td>こんにちは</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+桃子「こんにちは、また会えたわね<BR>
+（クイズ）<BR>
+「この学校の生徒なの？<BR>
+桃子「ええ
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>３</B>
+<td>また会えた</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+桃子「また会った、そんな予感がしてたの<BR>
+（クイズ）<BR>
+桃子「どこかへおでかけ？<BR>
+「なんとなく、ぶらぶらと・<BR>
+桃子「気が合うわね、実は私も
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>４</B>
+<td>誘ってよ</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+桃子「ねえ<BR>
+（クイズ）<BR>
+桃子「ねえ、誘ってくれないの？<BR>
+「えっ！<BR>
+桃子「普通これだけしつこく会ってたら誘ってくれるもんじゃないの？<BR>
+「あっ・・・<BR>
+桃子「わざとぶつかったりしたの気づいてないの？<BR>
+「いや、あの・・・<BR>
+桃子「どんかん<BR>
+「行ってしまった・・・
+</td>
+</tr>
+
+
+<tr>
+<th bgcolor="#DFECDF"><B>５</B>
+<td>それじゃ誘うか</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+桃子「こんにちは<BR>
+（クイズ）<BR>
+桃子「今日もわざとだよ・・・<BR>
+「うん、じゃあ、どこか行こうか？<BR>
+桃子「うれしい！誘ってくれるのね、私、嫌われてんのかと思っちゃった！<BR>
+桃子「えーっとねえ、えーっとねえ、どこでもいい！<BR>
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>６</B>
+<td>私たちって</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+桃子「楽しかったね<BR>
+「そろそろ帰ろうか？<BR>
+桃子「うん・・・<BR>
+桃子「ねえ・・・<BR>
+（クイズ）<BR>
+桃子「ねえ、私たちって・・・どんな風に見えるのかな？ 例えば・・・<BR>
+「例えば？<BR>
+桃子「・・・恋人？<BR>
+「うん、そう見えるかもね<BR>
+桃子「本当に、そう思う？<BR>
+桃子「・・・・・・浮気したら許さないわよ<BR>
+「ははは・・・<BR>
+桃子「殺しちゃうかも・・・
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>７</B>
+<td>高台にて</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+桃子「今日は行きたいところがあるんだ！<BR>
+「どこにつれてってくれるの？<BR>
+桃子「いいところ<BR>
+桃子「ね、いいところでしょ？<BR>
+桃子「ここからの見晴らしが一番好きなの<BR>
+（クイズ）<BR>
+桃子「小さい頃、ここから見る花火がきれいだった・・・<BR>
+桃子「好きな人といっしょに見たかったな花火・・・・・・<BR>
+「見に来ようよ、花火・・・<BR>
+桃子「うん、行きたいな・・・
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>８</B>
+<td>高台にて２</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+桃子「うーん、気持ちいいー<BR>
+「そろそろ戻ろうか？<BR>
+桃子「うん<BR>
+桃子「ねえ<BR>
+「ん？<BR>
+桃子「もし、私が死んだらどうする？<BR>
+「何言ってんだよ<BR>
+桃子「一人で死ぬのはやだな<BR>
+　　　<FONT COLOR="#FF0000">まなぶ</FONT>くん、いっしょにいてくれる？<BR>
+「こんなに元気そうなのにどうしたの？<BR>
+桃子「ちょっと聞いてみただけ
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>９</B>
+<td>浮気発覚</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+「じゃあね<BR>
+「あ、桃子ちゃん・・・<BR>
+桃子「・・・・・・<BR>
+（クイズ）<BR>
+「どうしたの？<BR>
+桃子「・・・・・・<FONT COLOR="#FF0000">まなぶ</FONT>くんって<BR>
+　　　・・・・・・浮気もの<BR>
+「何言ってんだよ 今のは・・・<BR>
+桃子「いいの、わかってるから<BR>
+　　　<FONT COLOR="#FF0000">まなぶ</FONT>くんってみんなに人気があるのよね<BR>
+「どうしたの、おかしいよ<BR>
+桃子「そうよ、私ってふつうじゃないもん
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>１０</B>
+<td>花火へ行こう</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+桃子「<FONT COLOR="#FF0000">まなぶ</FONT>くん・・・<BR>
+（クイズ）<BR>
+「どうしたの、こないだは　何か変だったよ<BR>
+桃子「何でもないの・・・<BR>
+　　　そんな事より、行きたいところがあるの<BR>
+桃子「いっしょに行ってくれるでしょ？<BR>
+「もちろんだよ<BR>
+　で、どこに行くの？<BR>
+桃子「花火、高台から見える・・・<BR>
+「うん、いいよ行こう<BR>
+「あれ？桃子ちゃん？どこに行ったんだろう・・・
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>１１</B>
+<td>うらめしー</td>
+<td bgcolor="#DFECDF"><B>ノルマ　３＋５</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+「そろそろ花火が始まるよ<BR>
+　高台の方へ急ごう<BR>
+桃子「うん・・・<BR>
+「きれいだねえ・・・<BR>
+（クイズ）<BR>
+桃子「とうとう夢がかなっちゃった<BR>
+「花火？<BR>
+桃子「好きな人と花火がみれたら天国に行こうって・・・<BR>
+「また、変な事言い出す・・・<BR>
+桃子「変な事？<BR>
+　　　いいえ、幽霊の私にはまじめな話よ<BR>
+「幽霊？！<BR>
+桃子「・・・・・・<BR>
+　　　私、ずっとあなたに憧れてた<BR>
+桃子「あなたは知らないだろうけどぞっと遠くから見つめてたの<BR>
+「・・・・・・・・・・・・？？？<BR>
+桃子「でも、気持ちを伝える前に死んじゃったの・・・交通事故でね<BR>
+桃子「今日、花火を見たら 天国に行くつもりだった<BR>
+「だった・・・？<BR>
+桃子「そう、だった・・・<BR>
+桃子「けど、<FONT COLOR="#FF0000">まなぶ</FONT>くんが他の女の子と楽しそうにしてるの<BR>
+　　　を見て気が変わっちゃった<BR>
+「・・・・・・（ゴクッ）<BR>
+桃子「・・・・・・<FONT COLOR="#FF0000">まなぶ</FONT>くんもいっしょに連れてくの<BR>
+桃子「天国じゃないかもしれないけど<BR>
+「ヒイッ！<BR>
+桃子「だって、いやなんだもん、一人で行くの・・・<BR>
+桃子「い～～～～い～～～～～～～～～～～～～～～<BR>
+　　　～～～わ～～～～～よ～～～～～～～～～～～～～ね～～～～～<BR>
+（クイズ）<BR>
+桃子「なーんて、ね 心中なんて、好き合ってないと成り立たないのよね<BR>
+「・・・桃子ちゃん！<BR>
+桃子「<FONT COLOR="#FF0000">まなぶ</FONT>くん、私のこと、嫌いよね、幽霊だものね<BR>
+「そんなこと・・・<BR>
+桃子「いいのよ、私平気。今まで一人だったから・・・じゃっ、行くわ<BR>
+「ちょっとまってよ！　好きだよ、オレ桃子ちゃんのことが好きだよ<BR>
+「こっちでいっしょに居よう、幽霊でもかまわない！<BR>
+「いいじゃないか、オレは気にしないよ！こっちで暮らそう！<BR>
+桃子「・・・ムリしちゃって、私、その気持ちだけでうれしい<BR>
+桃子「でもやっぱりダメ、幽霊と付き合ってもろくな事ないわ<BR>
+「・・・・・・<BR>
+桃子「本当にありがとう、今の言葉だけで十分幸せ<BR>
+「本気だよ、オレ<BR>
+桃子「じゃあ、ひとつだけ・・・<BR>
+「何？<BR>
+桃子「ときどき、化けて出ていい？<BR>
+クリスタルが輝きだした。二人の気持ちに反応している<BR>
+妖精「やったわね！クリスタルは必ず力を貸してくれるわ！
+</td>
+</tr>
+
+<tr>
+<th bgcolor="#DFECDF"><B>－</B>
+<td>エンディング</td>
+<td bgcolor="#DFECDF" align="center"><B>－</B></td>
+</tr>
+
+<tr>
+<td colspan="4">
+ゴティバ「ぐあああああああああああああああ！<BR>
+サキ「助けに来ました！<BR>
+ゴティバ「ぐあああああ、よくやった<FONT COLOR="#FF0000">マナブ</FONT>。<BR>
+ゴティバ「今回は封印されてやるがこの次は必ず完全復活してやるからな！<BR>
+サキ「あとは私にまかせて下さい！<BR>
+サキ「一人で魔王を倒すなんてすごいです！<BR>
+<BR>
+「か、勝った・・・<BR>
+妖精「おめでとう！さすが私の見込んだ勇者ね。必ず勝つと思ってたわ<BR>
+「俺一人の力じゃないよ。いろんな人が助けてくれたんだ。<BR>
+妖精「みんなあなたの努力の成果よ、ごくろうさま。<BR>
+「・・・いろいろあったけど、楽しい半年間だったなぁ<BR>
+「なんだか帰るのがもったいないや<BR>
+妖精「ふふーん、わかってるわよ、あなたの考えていることぐらい<BR>
+妖精「あの娘にもう一度会いたいんでしょ？<BR>
+「・・・うん<BR>
+妖精「まかせてっ！<BR>
+妖精「世界を救ってくれたお礼にあの娘のところにつれてってあげるわ<BR>
+妖精「でも、そこからはあなた自身の問題よ！<BR>
+<BR>
+（<FONT COLOR="#FF0000">マナブ</FONT>）<BR>
+桃子ちゃん。<BR>
+この半年間色々な人に<BR>
+出会ったけど<BR>
+桃子ちゃんといる時が<BR>
+一番楽しかった。<BR>
+もう一度会って<BR>
+この気持ちを彼女に伝えるんだ！<BR>
+<BR>
+「桃子ちゃん・・・<BR>
+桃子「ありがとう、とってもうれしい<BR>
+桃子「幽霊のわたしなんかに好きだって言ってくれたこと<BR>
+桃子「絶対に忘れない<BR>
+桃子「わたし今度生まれ変わっても必ず<FONT COLOR="#FF0000">まなぶ</FONT>くんのこと好きになる<BR>
+桃子「そうだ！すぐに生まれ変われればまだ間に合うよね<BR>
+桃子「必ず見つけ出して今度はちゃんと告白するね<BR>
+桃子「その時は絶対にＯＫしてよ！<BR>
+桃子「わたし・・・いつまでも<FONT COLOR="#FF0000">まなぶ</FONT>くんのこと<BR>
+桃子「大好き<BR>
+「桃子ちゃん<BR>
+「必ず見つけ出すよ、必ず！俺もこの気持ち・・・<BR>
+「絶対に忘れない<BR>
+<BR>
+妖精「そして<FONT COLOR="#FF0000">マナブ</FONT>とのその後は・・・<BR>
+<BR>
+妖精「しばらくはこの世にいて<FONT COLOR="#FF0000">まなぶ</FONT>と遊んでたけどある日突然いなくなっちゃったの<BR>
+妖精「<FONT COLOR="#FF0000">まなぶ</FONT>は必死になって探し回ったけど、結局見つからなかったわ<BR>
+妖精「でも心配しないで<BR>
+妖精「ある日<FONT COLOR="#FF0000">まなぶ</FONT>の目の前に約束通り生まれ変わった桃子ちゃんが現れるはずよ<BR>
+妖精「きっと・・・<BR>
+<BR>
+おわり<BR>
+
+</td>
+</tr>
+
+
+</table>
+
+
+<H4>★ボイス・リスト</H4>
+
+<CENTER>
+<table border="2" cellspacing="0" bgcolor="#ffffff">
+<tr>
+<th bgcolor="#DFECDF" colspan="2">好感度５０未満</th>
+</tr>
+<tr>
+<th bgcolor="#DFECDF" width="100">場面</th>
+<th bgcolor="#DFECDF" width="200">ボイス</th>
+</tr>
+
+<tr>
+<th rowspan="2">問題</th>
+<td><b>問題</b></td>
+</tr>
+
+<tr>
+<td><b>ねぇ、わかるぅ？</b></td>
+</tr>
+
+<tr>
+<th rowspan="2">正解</th>
+<td><b>正解</b></td>
+</tr>
+
+<tr>
+<td><b>あたりぃ！</b></td>
+</tr>
+
+<tr>
+<th rowspan="3">誤答</th>
+<td><b>ハズレぇ！</b></td>
+</tr>
+
+<tr>
+<td><b>そんなぁ・・・・・・</b></td>
+</tr>
+
+<tr>
+<td><b>えぇ！？どうして？</b></td>
+</tr>
+
+</table>
+</CENTER>
+<BR>
+
+<CENTER>
+<table border="2" cellspacing="0" bgcolor="#ffffff">
+<tr>
+<th bgcolor="#DFECDF" colspan="2">好感度５０以上</th>
+</tr>
+<tr>
+<th bgcolor="#DFECDF" width="100">場面</th>
+<th bgcolor="#DFECDF" width="200">ボイス</th>
+</tr>
+
+<tr>
+<th rowspan="2">問題</th>
+<td><b>ねぇ、わかるぅ？</b></td>
+</tr>
+
+<tr>
+<td><b>ねぇ、わかるでしょ？</b></td>
+</tr>
+
+<tr>
+<th rowspan="2">正解</th>
+<td><b>あたりぃ！</b></td>
+</tr>
+
+<tr>
+<td><b>すご～い！</b></td>
+</tr>
+
+<tr>
+<th rowspan="2">誤答</th>
+<td><b>えぇ！？どうして？</b></td>
+</tr>
+
+<tr>
+<td><b>ちがうちが～う</b></td>
+</tr>
+
+</table>
+</CENTER>
+<BR>
+<CENTER>
+<table border="2" cellspacing="0" bgcolor="#ffffff">
+<tr>
+<th bgcolor="#DFECDF" colspan="2">その他</th>
+</tr>
+<tr>
+<th bgcolor="#DFECDF" width="100">場面</th>
+<th bgcolor="#DFECDF" width="200">ボイス</th>
+</tr>
+
+<tr>
+<th>出現時</th>
+<td><b>こんにちは！</b></td>
+</tr>
+
+<tr>
+<th rowspan="3">解答催促時</th>
+<td><b>早く答えて</b></td>
+</tr>
+
+<tr>
+<td><b>まだなのぉ？</b></td>
+</tr>
+
+<tr>
+<td><b>早く！</b></td>
+</tr>
+
+<tr>
+<th>クリア時</th>
+<td><b>バァイ！</b></td>
+</tr>
+
+<tr>
+<th>告白ＯＫ時</th>
+<td><b>あたしも大好き！</b></td>
+</tr>
+
+<tr>
+<th>エンディング時</th>
+<td><b>わたし、不二家桃子っていうの！</b></td>
+</tr>
+
+</table>
+</CENTER>
+
+<p></p>
+
+
+
+<br>
+
+<HR>
+<H6 ALIGN=RIGHT><A HREF="index.html">戻る</A></H6>
+  <img src="../../Image/dummy.gif" width="100%" height="4" border="0"> <!--contents end--><!--footer start--> 
+</div>
+</font></body>
+</html>
+<!--footer end-->

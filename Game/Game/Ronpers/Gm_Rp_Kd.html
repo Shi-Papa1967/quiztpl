@@ -1,0 +1,162 @@
+<TITLE>Rompers基礎データ集</TITLE>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+<H1 ALIGN="CENTER">Rompers基礎データ集</H1>
+<H3 ALIGN=CENTER>ゲームシステム</H3>
+
+<UL>
+<LI>チャップ（プレイヤー）を操作して，画面上にある鍵をすべて取ると面クリア.
+<LI>全６１面をクリアすると、ALLクリアとなります。
+<LI>敵や、敵の攻撃に当ってしまうと、１ミスとなり、残機が０になるとゲームオーバーです。
+<LI>邪魔してくるモンスターは、石板を倒して潰すことができます．石板は倒すとなくなってしまいますが，一定時間経過すると自動的に復活します．
+<LI>敵を倒して一定数以下になった場合、卵が面のどこかに出現します．（一定数は面毎に設定されています．また、卵の出現位置も面毎に設定されています．）
+<LI>卵からは一定時間で敵が生まれてきますが，卵も石板で潰すことができます．
+<LI>面ごとに制限時間が設定されていて，これを過ぎてしまうと「使い魔」が出現します．「使い魔」はしつこくチャップを襲ってくるので、「使い魔」出現後はうまく逃げ回りましょう．
+</UL>
+
+<H3 ALIGN=CENTER>登場キャラクタ</H3>
+<ul>
+<TABLE BORDER=5 CELLPADDING=4 width=95%>
+<TR><TD>名称</TD><TD>得点</TD><TD><NOBR>アルゴリズム</NOBR></TD><TD>備考</TD></TR>
+<TR><TD><font color="#008800"><NOBR>ピョコリン</NOBR></font></TD><TD>100 pts
+</TD><TD>
+<BR>
+</TD><TD>
+１面からでてくる白いやつです。
+</TD></TR>
+
+<TR><TD><font color="#008800"><NOBR>不真面目ピョコリン</NOBR></font></TD><TD>100 pts
+</TD><TD>
+<BR>
+</TD><TD>
+時々煙草を吹かしてその間止まる、いやなやつ。
+</TD></TR>
+
+<TR><TD><font color="#008800">ケララ</font></TD><TD>200 pts
+</TD><TD>
+<BR>
+</TD><TD>
+2面にいるピンクの怪獣です。たまに火を吹きます。
+</TD></TR>
+
+<TR><TD><font color="#008800">トドリン</font></TD><TD>100 pts
+</TD><TD>
+<BR>
+</TD><TD>
+12面に初登場する青色の怪獣です。
+こいつは火の代りに吹雪を吹きます。
+</TD></TR>
+
+<TR><TD><font color="#008800">ゴロリン</font></TD><TD>300 pts
+</TD><TD>
+<BR>
+</TD><TD>
+３面からでてくる、アルマジロもどきです。丸まって移動します。<BR>こいつはこのゲームでのキーキャラですね。
+</TD></TR>
+
+<TR><TD><font color="#008800">ベカベカ</font></TD><TD>250 pts
+</TD><TD>
+<BR>
+</TD><TD>
+見たところ、懐かしのＦＣディスク。（笑）
+</TD></TR>
+
+<TR><TD><font color="#008800">大グモ</font></TD><TD>1200 pts
+</TD><TD>
+<BR>
+</TD><TD>
+大クモです。１０の倍数の面でしかでません。
+</TD></TR>
+
+<TR><TD><font color="#008800">ナチ坊</font></TD><TD>100 pts
+</TD><TD>
+<BR>
+</TD><TD>
+16面初登場の帽子をかぶったキャラ。
+普通なら、２回つぶさないといけません。
+</TD></TR>
+
+
+<TR><TD><font color="#008800">ダッグス</font></TD><TD>100 pts
+</TD><TD>
+<BR>
+</TD><TD>
+31面に初登場。爆弾を持った犬もどき。
+</TD></TR>
+</TABLE>
+
+</ul>
+<H3 ALIGN=CENTER>アイテム </H3>
+<UL>
+<DT><FONT COLOR="#008800">ボーナスアイテム</FONT>
+<DD>面クリアには関係ないアイテムで，ただ単に得点が増加します．
+ちなみにエクステンドは通常設定なら 100000 点と 300000 点と 700000 点の3回です．
+<DT><FONT COLOR="#008800">Uターン</FONT>
+<DD>モンスタはこのアイテムのところまで来ると，U ターンして戻っていきます．
+<DT><FONT COLOR="#008800">スピードアップ</FONT>
+<DD>一定時間、チャップのスピードが倍になります．
+<DT><FONT COLOR="#008800">地震</FONT>
+<DD>一定時間画面中が振動して，モンスタが身動きできなくなります．
+</UL>
+
+<H3 ALIGN=CENTER>フィールド</H3>
+
+<UL>
+<TABLE BORDER=4 ALIGN=RIGHT>
+<CAPTION>図２</CAPTION>
+<TR><TD>
+<IMG SRC="../../Image/rp002.gif" WIDTH="100" HEIGHT="99">
+</TD></TR>
+</TABLE>
+<TABLE BORDER=4 ALIGN=RIGHT>
+<CAPTION>図１</CAPTION>
+<TR><TD>
+<IMG SRC="../../Image/rp001.gif" WIDTH="100" HEIGHT="99">
+</TD></TR>
+</TABLE>
+フィールドはブロック単位で構成されていると考えます。
+更に、１ブロックは図１のように４X４マスになっており、斜線部分だけに石板や壁が配置されます。
+ちなみに、１枚石板は図２の様に配置されます。
+<BR>
+
+
+<DT><FONT COLOR="#008800">１枚石板</FONT>
+<DD>幅３マス分の、一番小さい石板です。
+<DT> <FONT COLOR="#008800">２枚石板</FONT>
+<DD>幅７マス分の石板です。
+
+<DT><FONT COLOR="#008800">３枚石板</FONT>
+<DD>幅１１マス分の石板です。
+<DT> <FONT COLOR="#008800">連鎖石板</FONT>
+<DD>幅３マス分の石板です。ただし、１枚石板より高さが少し高く、倒れた方の石板も一緒に倒してしまいます。<P>
+
+<CENTER>
+<TABLE  BORDER=5 WIDTH=50%>
+<CAPTION>まとめつぶしによる得点</CAPTION>
+<TR ALIGN="center">
+ <TD> 匹数 </TD><TD> 単体石板 </TD><TD> 二枚分石板 </TD><TD> 三枚分石板 </TD>
+<TR ALIGN="center">
+ <TD> 2 匹 </TD><TD> 2000 </TD><TD> 1000 </TD><TD> 500 </TD>
+</TR><TR ALIGN="center">
+ <TD> 3 匹 </TD><TD> 5000 </TD><TD> 2000 </TD><TD> 1000 </TD>
+</TR><TR ALIGN="center">
+ <TD> 4 匹 </TD><TD> 10000 </TD><TD> 4000 </TD><TD> 2000 </TD>
+</TR><TR ALIGN="center">
+ <TD> 5 匹 </TD><TD> 50000 </TD><TD> 8000 </TD><TD> 4000 </TD>
+</TR><TR ALIGN="center">
+ <TD> 6 匹 </TD><TD> 1UP </TD><TD> 10000 </TD><TD> 6000 </TD>
+</TR><TR ALIGN="center">
+ <TD> 7 匹 </TD><TD> 50000 </TD><TD> ? </TD><TD> ? </TD>
+</TR><TR ALIGN="center">
+ <TD> 8 匹 </TD><TD> ? </TD><TD> ? </TD><TD> 100 </TD>
+</TR>
+</TABLE>
+</CENTER><P>
+
+</UL>
+
+
+
+<H6 ALIGN=RIGHT><A HREF="index.html">戻る</A></H6>
+</BODY>
+</HTML>

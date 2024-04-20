@@ -1,0 +1,140 @@
+<!--header start-->
+<html>
+<head>
+</head><body bgcolor="#FFFFFF"><font face="ゴシック,Osaka">
+ <img src="../../Image/dummy.gif" width="550" height="1"><BR>
+<NOBR><FONT SIZE="-3" COLOR="#"><!-- #BeginLibraryItem "/Game/Library/&#12490;&#12499;&#12466;&#12540;&#12471;&#12519;&#12531;&#12496;&#12540;.lbi" --><font face="ゴシック,Osaka"><NOBR><FONT SIZE="1" COLOR="#">[<A HREF="../../index.shtml">トップページ</A>][ 
+<A HREF="../../ArcLink/index.html">戻る</A>][<a href="http://ya.sakura.ne.jp/~tpl/mewbbs/mewbbs.cgi" target="_top">掲示板</a>]</FONT></NOBR></font><!-- #EndLibraryItem --></FONT></NOBR> <BR>
+<div align="center">
+<!--contents start-->
+<BR>
+
+<table border="0" width="620">
+<tr bgcolor="#60A060"><th>
+	<B><FONT SIZE="2" FACE="ゴシック" COLOR="#FFFFFF">ストーリーシステム</FONT></B>
+</th></tr>
+<tr><td>
+<p>
+<H4>★イベントの種類</H4>
+各マスで展開するイベントは、ストーリー、ランダム、デートの３つに分類される。<BR>
+ストーリー・イベントは、人物マスに止まる度に物語が進行し、クリスタルが発動すると終了となる。（めぐみは終了させてもクリスタルが発動しない）<BR>
+主にノーマルマスで発生するランダム･イベントは、その名の通りランダムで発生するもので、物語の進行には直接影響しない。<BR>
+各ストーリー・イベントには必要な好感度が設定されている。それ以下で人物マスに止まるとランダム･イベントが発生してしまう。更にこのとき、ストーリー・イベントが特定の場面まで進んでいると、ランダム・イベントの代わりにデート･イベントが発生する。なお、人物マスでストーリー・イベントが発生する場合は、女の子の上にハートがついている。<BR>
+<BR>
+つまり<BR>
+<BR>
+<CENTER>
+ランダム・イベントで好感度ＵＰ→ストーリー・イベントで物語進行→ランダム・イベントで…</CENTER>
+<BR>
+というフローで物語が進行していく。
+<BR>
+
+<H4>★好感度について</H4>
+好感度はクイズのノルマをクリアすると上昇するパラメータで、ストーリー・イベントの進行状況に大きく影響を及ぼす。各女の子に対して各々好感度が設定されていて、ストーリー・イベント発生時、そのイベントが発生するのに必要な好感度がある場合に限り、ストーリー・イベントが進行する
+仕掛けとなっている。逆に好感度が足りない場合はランダム・イベントが発生する為、ストーリー･イベントが進行しない。<BR>
+
+<BR>
+
+<H4>★好感度の計算方法について</H4>
+
+クイズをクリアしたときに上がる好感度は、次のように計算される。<BR>
+<OL>
+<LI>基本値の決定<BR>
+どの種類のイベントだったかで決まる。デート・イベント時が一番大きい。更に、デート･イベント時は行き先評価によって、２～４ポイントが加算される。<BR>
+<CENTER>
+<table border="2" cellspacing="0" bgcolor="#ffffff">
+<tr bgcolor="#DFECDF">
+<th width="80">女の子</th>
+<th width="80">ストーリー</th>
+<th width="80">デート</th>
+<th width="80">ランダム</th>
+</tr>
+
+<tr>
+<td>　めぐみ</td>
+<td align="center">３</td>
+<td align="center">６</td>
+<td align="center">４</td>
+</tr>
+
+<tr>
+<td>　桃子</td>
+<td align="center">６</td>
+<td align="center">６</td>
+<td align="center">６</td>
+</tr>
+
+<tr>
+<td>　久美子</td>
+<td align="center">４</td>
+<td align="center">６</td>
+<td align="center">６</td>
+</tr>
+
+<tr>
+<td>　サキ</td>
+<td align="center">４</td>
+<td align="center">８</td>
+<td align="center">４</td>
+</tr>
+
+<tr>
+<td>　絵美</td>
+<td align="center">１０</td>
+<td align="center">１２</td>
+<td align="center">１０</td>
+</tr>
+
+<tr>
+<td>　真由美</td>
+<td align="center">６</td>
+<td align="center">６</td>
+<td align="center">６</td>
+</tr>
+
+<tr>
+<td>　ロッテ</td>
+<td align="center">８</td>
+<td align="center">１０</td>
+<td align="center">８</td>
+</tr>
+
+<tr>
+<td>　めぐみ</td>
+<td align="center">３</td>
+<td align="center">６</td>
+<td align="center">４</td>
+</tr>
+</table>
+<SMALL>※デート・イベント時は行き先評価により、＋４～０ が加算される。</SMALL>
+</CENTER>
+<BR>
+<TABLE BORDER="2" align="right">
+<CAPTION ALIGN="TOP">正解率ボーナス</CAPTION>
+<TR  bgcolor="#DFECDF" align="center"><TD>誤答数</TD><TD>ボーナス</TD></TR>
+<TR><TD>０問</TD><TD align="center">＋２</TD></TR>
+<TR><TD>１～２問</TD><TD align="center">＋１</TD></TR>
+<TR><TD>３問以上</TD><TD align="center">０</TD></TR>
+</TABLE>
+<LI>正解率ボーナスの加算<BR>
+そのマス内での問題正答率により、基本値に加算される。<BR>
+<LI>アイテム効果による補正<BR>
+基本値・正解率ボーナスの合計値に対し、好感度ＵＰによる補正がかかる。
+好感度ＵＰのアイテム効果がある場合、合計値は１．５倍される。好感度ＵＰのアイテム効果はそのマス内で１回でも出現すればいい。
+</OL>
+
+<BR clear=ALL>
+
+<p></p>
+</td></tr>
+</table>
+
+<br>
+
+<HR>
+<H6 ALIGN=RIGHT><A HREF="index.html">戻る</A></H6>
+  <img src="../../Image/dummy.gif" width="100%" height="4" border="0"> <!--contents end--><!--footer start--> 
+</div>
+</font></body>
+</html>
+<!--footer end-->

@@ -1,0 +1,349 @@
+<!--header start-->
+<html>
+<head>
+<title></title>
+</head><body bgcolor="#FFFFFF">
+<font face="ゴシック,Osaka"> <NOBR><FONT SIZE="-3" COLOR="#"><!-- #BeginLibraryItem "/Game/Library/&#12490;&#12499;&#12466;&#12540;&#12471;&#12519;&#12531;&#12496;&#12540;.lbi" --><font face="ゴシック,Osaka"><NOBR><FONT SIZE="1" COLOR="#">[<A HREF="../../index.shtml">トップページ</A>][ 
+<A HREF="../../ArcLink/index.html">戻る</A>][<a href="http://ya.sakura.ne.jp/~tpl/mewbbs/mewbbs.cgi" target="_top">掲示板</a>]</FONT></NOBR></font><!-- #EndLibraryItem --></FONT></NOBR> 
+<div align="center">
+<!--contents start-->
+<BR>
+
+<table border="0" width="620">
+<tr bgcolor="#60A060"><th>
+	<B><FONT SIZE="2" FACE="ゴシック" COLOR="#FFFFFF">イベント関連データ</FONT></B>
+</th></tr>
+<tr><td>
+<p>
+<H4>イベント進行表</H4>
+<TABLE BORDER>
+<TR><TD>開始時</TD><TD>－</TD><TD>名前決定</TD><TD>ペット発見</TD></TR>
+<TR><TD>０歳</TD><TD>ノルマ３</TD><TD>ペットの食欲不振</TD></TR>
+<TR><TD>１歳</TD><TD>ノルマ３</TD><TD>遊園地に行く</TD></TR>
+<TR><TD>２歳</TD><TD>思い出クイズ</TD><TD>公園デビュー</TD></TR>
+<TR><TD>３歳</TD><TD>時間２倍　ノルマ４</TD><TD>幼稚園入園試験　ノルマ３</TD><TD>新ペット発見</TD></TR>
+<TR><TD>４歳</TD><TD>ノルマ４</TD><TD>初めての留守番</TD></TR>
+<TR><TD>５歳</TD><TD>ノルマ４</TD><TD>小学校入学試験　ノルマ３</TD><TD>新ペット発見</TD></TR>
+<TR><TD>６歳</TD><TD>３択　ノルマ５</TD><TD>ペットの世話をしない</TD></TR>
+<TR><TD>７歳</TD><TD>ノルマ５</TD><TD>絵を描く</TD></TR>
+<TR><TD>８歳</TD><TD>ノルマ５</TD><TD></TD><TD>新ペット発見</TD></TR>
+<TR><TD>９歳</TD><TD>ペット飼育クイズ</TD><TD>授業参観</TD></TR>
+<TR><TD>１０歳</TD><TD>ノルマ５</TD><TD>遠足の弁当</TD></TR>
+<TR><TD>１１歳</TD><TD>３択　ノルマ５</TD><TD>中学校入学試験　ノルマ６</TD><TD>新ペット発見</TD></TR>
+<TR><TD>１２歳</TD><TD>ノルマ６</TD><TD>ペットとはぐれる</TD></TR>
+<TR><TD>１３歳</TD><TD>時間２倍　ノルマ６</TD><TD>高校入学問題</TD><TD>新ペット発見</TD></TR>
+<TR><TD>１４歳</TD><TD>地域クイズ</TD></TR>
+<TR><TD>１５歳</TD><TD>ノルマ６</TD><TD>娘に電話</TD></TR>
+<TR><TD>１６歳</TD><TD>ノルマ６</TD><TD>反抗期</TD></TR>
+<TR><TD>１７歳</TD><TD>ノルマ６</TD><TD>進路決定</TD></TR>
+<TR><TD>１８歳</TD><TD>ノルマ６</TD><TD></TD></TR>
+<TR><TD>１９歳</TD><TD>３択　ノルマ６</TD><TD></TD></TR>
+<TR><TD>２０歳</TD><TD>ノルマ６</TD><TD></TD></TR>
+<TR><TD>２１歳</TD><TD>ノルマ６</TD><TD></TD></TR>
+<TR><TD>２２歳</TD><TD>時間２倍　ノルマ７</TD><TD></TD></TR>
+<TR><TD>２３歳</TD><TD>３択　ノルマ７</TD><TD></TD></TR>
+<TR><TD>２４歳</TD><TD>ノルマ７</TD><TD></TD></TR>
+<TR><TD>２５歳</TD><TD>ノルマ８</TD><TD>結婚か？仕事か？</TD><TD>結婚</TD><TD>結婚式は？</TD></TR>
+</TABLE>
+１８歳からはその時ついている職業でイベントが多彩に変化します。<BR>
+２５歳のイベントは第３期の職業に就いている時だけ必ず「結婚か？仕事か？」のイベントが発生し、その選択が「職業」の時は、「各職業のエンディング」があります。また、「結婚」を選んだ時は「結婚」・「結婚式は？」のイベントになります。<BR>
+第３期の職業に就いている時以外は強制的に「結婚」・「結婚式は？」のイベントになります。<BR>
+「結婚式は？」のイベントの選択により、３種類の結婚式のエンディングがあります。
+<BR clear=all>
+
+<H4>進路決定後のイベント</H4>
+初給料or同窓会とあるのは、初給料か、同窓会のイベントが出現することを示します。通常は初給料のイベントが優先してでますが、専門学校卒の場合にのみ同窓会のイベントが出現します。
+<TABLE BORDER>
+<TR><TD></TD><TD>大学受験</TD><TD>専門学校</TD><TD>第１期職業</TD><TD>第２期職業</TD><TD>第３期職業</TD><TD>無職</TD><TD>浪人</TD></TR>
+<TR><TD>１年目</TD><TD>母親が風邪</TD><TD>母親が風邪</TD><TD>職業イベント</TD><TD>職業イベント</TD><TD>職業イベント</TD><TD>転職試験</TD><TD>就職試験</TD></TR>
+<TR><TD>2年目</TD><TD>赤ちゃんの時の話</TD><TD>就職試験</TD><TD>初給料</TD><TD>初給料or同窓会</TD><TD>初給料</TD></TR>
+<TR><TD>3年目</TD><TD>将来へのアドバイス</TD><TD></TD><TD>転職試験</TD><TD>転職試験</TD><TD>同窓会</TD></TR>
+<TR><TD>4年目</TD><TD>就職試験</TD></TR>
+</TABLE>
+
+
+<H4>パラメータと職業の関係</H4>
+娘が就ける職業は就職の時期と得意分野によって決まります。大きく分けて４期にわけられます。<BR>
+<TABLE BORDER>
+<TR><TD>第１期の職業</TD><TD>高校からの卒業時、就職試験選択時、第１期の職業に１度も就いていない時、または最終学歴が専門学校の時の職業</TD></TR>
+<TR><TD>第２期の職業</TD><TD>専門学校からの卒業時、就職試験選択時、第１期の職業を経験している時、または最終学歴が大学の時に選択できる。</TD></TR>
+<TR><TD>第３期の職業</TD><TD>大学からの卒業時、または就職試験選択時、第２期の職業に就いている時に選択できる。</TD></TR>
+<TR><TD>第４期の職業</TD><TD>ゲーム終了時、第３期の職業に就いている時に選択できる。<BR>エンディングが変わる。
+</TD></TR>
+</TABLE>
+<BR>
+<TABLE BORDER ALIGN=LEFT>
+<TR><TD>得意分野</TD><TD>第１期</TD><TD>第２期</TD></TR>
+<TR><TD>自然科学</TD><TD>薬剤師</TD><TD>考古学者</TD></TR>
+<TR><TD></TD><TD>美容師</TD><TD>銀座のチーママ</TD></TR>
+<TR><TD></TD><TD>動物写真家</TD><TD>気象予報士</TD></TR>
+<TR><TD></TD><TD>板前</TD><TD>ジョッキー</TD></TR>
+<TR><TD>社会科学</TD><TD>公務員</TD><TD>国税局局員</TD></TR>
+<TR><TD></TD><TD>コンパニオン</TD><TD>通訳</TD></TR>
+<TR><TD></TD><TD>鑑定士</TD><TD>心理学者</TD></TR>
+<TR><TD></TD><TD>消防士</TD><TD>探偵</TD></TR>
+<TR><TD>人文科学</TD><TD>シスター</TD><TD>動物学者</TD></TR>
+<TR><TD></TD><TD>ダンサー</TD><TD>オペラ歌手</TD></TR>
+<TR><TD></TD><TD>ゲームデザイナー</TD><TD>落語家</TD></TR>
+<TR><TD></TD><TD>ＤＪ</TD><TD>棋士</TD></TR>
+</TABLE>
+<TABLE BORDER>
+<TR><TD>得意分野</TD><TD>第３期</TD><TD>第４期</TD></TR>
+<TR><TD>－</TD><TD>オリンピック選手</TD><TD>親善大使</TD></TR>
+<TR><TD></TD><TD>国際動物救助隊</TD><TD>ＮＡＳＡ</TD></TR>
+<TR><TD></TD><TD>石油王</TD><TD>サウルスパーク</TD></TR>
+</TABLE>
+<BR clear=all>
+
+<H4>各イベントによるパラメータ増減</H4>
+<TABLE BORDER>
+<TR><TD>発生時期</TD><TD>イベント</TD><TD>選択肢</TD><TD>パラメータ</TD></TR>
+<TR><TD>０歳</TD><TD>ペットの食欲がない</TD><TD>１：家族全員で食べない</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：目の前で食べる</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：いろいろ試す</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：おいしく料理する</TD><TD>まじめ＋</TD></TR>
+<TR><TD>１歳</TD><TD>遊園地で記念写真</TD><TD>１：ビバリンバマンと　　　　　　０</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：メリーゴーランドで　　　５００</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：お化け屋敷で　　　　　１０００</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：観覧車で　　　　　　　２０００</TD><TD>まじめ＋</TD></TR>
+<TR><TD>２歳</TD><TD>公園デビュー</TD><TD>１：親で話し合い　　　　　　　　０</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：あきらめさせる　　　　　　　０</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：自分で取り返させる　　　　０</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：新しく買う　　　　　　　１０００</TD><TD>おたく＋</TD></TR>
+<TR><TD>３歳</TD><TD>入園試験</TD><TD>１：公立すなお幼稚園</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD>（ノルマ３）</TD><TD>２：公立おしゃま幼稚園</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：私立たてこもり幼稚園</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：私立はなたれ幼稚園</TD><TD>わんぱく＋</TD></TR>
+<TR><TD>４歳</TD><TD>留守番</TD><TD>１：一週間ごと　０</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：まめに電話する　５００</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：お土産を買う　５０００</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：気になって帰る　３０００</TD><TD>おたく＋</TD></TR>
+<TR><TD>５歳</TD><TD>入学試験</TD><TD>１：公立敬礼小学校</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD>（ノルマ３）</TD><TD>２：私立御宝小学校</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：公立垂涎小学校</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：私立遊々小学校</TD><TD>わんぱく＋</TD></TR>
+<TR><TD>６歳</TD><TD>趣味で夢中</TD><TD>１：放っておく</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：娘の世話もしない</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：説教する</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：自分で世話をする</TD><TD>色気＋</TD></TR>
+<TR><TD>７歳</TD><TD>学校の宿題で絵を描く</TD><TD>１：いちゃいちゃする</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：威厳を保つ</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：めかしこむ</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：描かしてあげない</TD><TD>わんぱく＋</TD></TR>
+<TR><TD>８歳</TD><TD>新ペット発見</TD></TR>
+<TR><TD>９歳</TD><TD>授業参観</TD><TD>１：知らない人のふりをする</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：代わりに答える</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：怒る！</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：プレッシャーをかける</TD><TD>まじめ＋</TD></TR>
+<TR><TD>１０歳</TD><TD>遠足のお弁当</TD><TD>１：残り物弁当　０</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：究極の弁当　５００００</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：日の丸弁当　３００</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：５００円玉をいれる　５００</TD><TD>おたく＋</TD></TR>
+<TR><TD>１１歳</TD><TD>入学試験</TD><TD>１：公立エコロジー中学校</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD>（ノルマ６）</TD><TD>２：私立ラブラブ中学校</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：公立フィギュア中学校</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：私立タイフーン中学校</TD><TD>わんぱく＋</TD></TR>
+<TR><TD>１２歳</TD><TD>ペットとはぐれる</TD><TD>１：あきらめる　０</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：貼り紙をはる　１００００</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：代わりを買う　３００００</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：探偵を雇う　５００００</TD><TD>まじめ＋</TD></TR>
+<TR><TD>1３歳</TD><TD>高校受験の応援</TD><TD>１：自分が勉強を教えてやる　</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：娘の分まで遊ぶ</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：神社にお参り</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：夜食を作る</TD><TD>わんぱく＋</TD></TR>
+<TR><TD>1４歳</TD><TD>高校受験</TD><TD>１：人文　２００００　</TD><TD></TD></TR>
+<TR><TD></TD><TD>（ノルマ６）</TD><TD>２：裏社会　２００００</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>３：自然　２００００</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>４：受け皿高校　０</TD><TD></TD></TR>
+<TR><TD>1５歳</TD><TD>娘に電話</TD><TD>１：間違いですよ</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：自分が娘だと偽る</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：娘は留守です</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：愛想よく娘に代わる</TD><TD>わんぱく＋</TD></TR>
+<TR><TD>1６歳</TD><TD>両親を避ける</TD><TD>１：ひたすら話し掛ける</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：とにかく機嫌をとる</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：一方的に怒る</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：とりあえずほっておく</TD><TD>おたく＋</TD></TR>
+<TR><TD>－</TD><TD>進路決定</TD><TD>１：大学受験</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>２：専門学校受験</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>３：就職試験</TD><TD></TD></TR>
+<TR><TD>－</TD><TD>大学受験</TD><TD>１：ゴールド大学　１０００００　</TD><TD></TD></TR>
+<TR><TD></TD><TD>（ノルマ１０）</TD><TD>２：エリート大学　　　　　　０</TD><TD></TD></TR>
+<TR><TD>－</TD><TD>専門学校受験</TD><TD>１：人文学院　４００００　</TD><TD></TD></TR>
+<TR><TD></TD><TD>（ノルマ１０）</TD><TD>２：社会専門学校　４００００</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>３：自然カレッジ　４００００</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>４：気やすめ学院　０</TD><TD></TD></TR>
+<TR><TD>大学1年・専門1年</TD><TD>母親が風邪で夕食を作る</TD><TD>１：娘に作らせる　０</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：出前を取る　　３０００</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：娘と一緒に作る　１５０００</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：父が作る　３５０００</TD><TD>おたく＋</TD></TR>
+<TR><TD>大学２年</TD><TD>赤ちゃんの頃の話</TD><TD>１：可愛かった事</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：生まれてすぐの事</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：パパの苦労話</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：パパに似ている事</TD><TD>色気＋</TD></TR>
+<TR><TD>大学３年</TD><TD>進路の相談</TD><TD>１：好きな事をしなさい</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：おまえなら大丈夫さ</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：悔いのないようにな</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：お父さんの会社に来なさい</TD><TD>まじめ＋</TD></TR>
+<TR><TD>１回目の就職２年目</TD><TD>初給料</TD><TD>１：まごころ</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：娘からもらったプレゼント</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：父の肩たたき券</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：宝石</TD><TD>色気＋</TD></TR>
+<TR><TD>１回目の就職３年目</TD><TD>同窓会</TD><TD>１：こっそり尾行</TD><TD>おたく＋</TD></TR>
+<TR><TD>２回目の就職２年目</TD><TD></TD><TD>２：早く帰ってきなさい</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：今日くらい自由に</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：飲みすぎるなよ</TD><TD>わんぱく＋</TD></TR>
+<TR><TD>２５歳</TD><TD>結婚か？仕事か？</TD><TD>１：結婚</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>２：仕事</TD><TD></TD></TR>
+<TR><TD>２５歳</TD><TD>結婚</TD><TD>１：仕方なく認める</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：泣く泣く認める</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：しかめっつらで認める</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：大喜びで認める</TD><TD>わんぱく＋</TD></TR>
+<TR><TD>２５歳</TD><TD>結婚式は？</TD><TD>１：豪華な結婚式</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>２：身内だけの結婚式</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>３：２人だけの結婚式</TD><TD></TD></TR>
+<TR><TD>－</TD><TD>就職試験</TD><TD>１：薬剤師</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD>（全１０問　合格率４０％）</TD><TD>２：美容師</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：動物写真家</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：板前</TD><TD>わんぱく＋</TD></TR>
+<TR><TD>薬剤師</TD><TD>漢方薬のお返し</TD><TD>１：自家製烏龍ライム茶</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：自家製青汁茶</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：自家製白米茶</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：自家製梅じそ茶</TD><TD>色気＋</TD></TR>
+<TR><TD>美容師</TD><TD>髪をカット</TD><TD>１：おまかせで</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：若く見えるように</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：個性的に</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：カッコよくしてくれ</TD><TD>色気＋</TD></TR>
+<TR><TD>動物写真家</TD><TD>怪我で入院</TD><TD>１：仕事を辞めさせる　　　　　０</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：付き添う　　　　　　　　　８００</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：見舞いに行く　　　　２００００</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：医者にまかせる　１２００００</TD><TD>おたく＋</TD></TR>
+<TR><TD>板前</TD><TD>べらんめえ口調が身につく</TD><TD>１：「さしすせそ」の練習</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：大阪弁で対抗</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：家族でべらんめー節</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：標準語に戻す</TD><TD>まじめ＋</TD></TR>
+<TR><TD>－</TD><TD>就職試験</TD><TD>１：考古学者</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD>（全１０問　合格率５０％）</TD><TD>２：銀座のチーママ</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：気象予報士</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：ジョッキー</TD><TD>わんぱく＋</TD></TR>
+<TR><TD>考古学者</TD><TD>発掘に何か持っていかせる</TD><TD>１：家のカギ</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：家の写真</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：お守り</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：チリガミとハンカチ</TD><TD>わんぱく＋</TD></TR>
+<TR><TD>銀座のチーママ</TD><TD>休日に</TD><TD>１：そっとしておく　　　　　　　　０</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：服をプレゼント　　　５００００</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：豪華な食事　　　　３００００</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：家族旅行　　　　　１５００００</TD><TD>まじめ＋</TD></TR>
+<TR><TD>気象予報士</TD><TD>休日に</TD><TD>１：そっとしておく　　　　　　　　０</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：服をプレゼント　　　５００００</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：豪華な食事　　　　３００００</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：家族旅行　　　　　１５００００</TD><TD>まじめ＋</TD></TR>
+<TR><TD>ジョッキー</TD><TD>休日に</TD><TD>１：そっとしておく　　　　　０</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：服をプレゼント　　　５００００</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：豪華な食事　　　　３００００</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：家族旅行　　　　　１５００００</TD><TD>まじめ＋</TD></TR>
+<TR><TD>－</TD><TD>就職試験</TD><TD>１：公務員</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD>（全１０問　合格率４０％）</TD><TD>２：コンパニオン</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：鑑定士</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：消防士</TD><TD>わんぱく＋</TD></TR>
+<TR><TD>公務員</TD><TD>友達と旅行</TD><TD>１：北海道の大自然　　　　　０</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：伊豆の温泉　　　　　５００００</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：銚子の魚料理　　１２００００</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>４：京都めぐり　　　　　１６００００</TD><TD></TD></TR>
+<TR><TD>コンパニオン</TD><TD>ダイエットのしすぎで入院</TD><TD>１：仕事を辞めさせる　　　　　０</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：付き添う　　　　　　　　　８００</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：見舞いに行く　　　　２００００</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：医者にまかせる　１２００００</TD><TD>おたく＋</TD></TR>
+<TR><TD>鑑定士</TD><TD>秘宝を鑑定</TD><TD>１：竿竹</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：壷</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：どんぶり</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：ＰＰ６６０１マイコン</TD><TD>おたく＋</TD></TR>
+<TR><TD>消防士</TD><TD>怪我で入院</TD><TD>１：仕事を辞めさせる　　　　　０</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：付き添う　　　　　　　　　８００</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：見舞いに行く　　　　２００００</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：医者にまかせる　１２００００</TD><TD>おたく＋</TD></TR>
+<TR><TD>－</TD><TD>就職試験</TD><TD>１：国税局局員</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD>（全１０問　合格率５０％）</TD><TD>２：通訳</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：心理学者</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：探偵</TD><TD>わんぱく＋</TD></TR>
+<TR><TD>国税局局員</TD><TD>休日に</TD><TD>１：そっとしておく　　　　　　　　０</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：服をプレゼント　　　５００００</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：豪華な食事　　　　　３００００</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：家族旅行　　　　　１５００００</TD><TD>まじめ＋</TD></TR>
+<TR><TD>通訳</TD><TD>外国の人をもてなす</TD><TD>１：相撲を見せる</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：着物を見せる</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：カラオケに行く</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：寿司をとる</TD><TD>まじめ＋</TD></TR>
+<TR><TD>心理学者</TD><TD>鏡を割ってしまった</TD><TD>１：あやまる</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：だまっている</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：代わりでごまかす</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：アリバイを作る</TD><TD>おたく＋</TD></TR>
+<TR><TD>探偵</TD><TD>張り込み</TD><TD>１：交代で見張る</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：応援する</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：差し入れをする</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：近所に協力を頼む</TD><TD>おたく＋</TD></TR>
+<TR><TD>－</TD><TD>就職試験</TD><TD>１：シスター</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD>（全１０問　合格率４０％）</TD><TD>２：ダンサー</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：ゲームデザイナー</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：ＤＪ</TD><TD>わんぱく＋</TD></TR>
+<TR><TD>シスター</TD><TD>クリスマス</TD><TD>１：お話をする　　　　　　　　　０</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：人形劇を始める　　　　８００</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：ケーキを作る　　　　　５０００</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：サンタに変装　　　　２００００</TD><TD>おたく＋</TD></TR>
+<TR><TD>ダンサー</TD><TD>怪我で入院</TD><TD>１：仕事を辞めさせる　　　　　０</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：付き添う　　　　　　　　　８００</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：見舞いに行く　　　　２００００</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：医者にまかせる　１２００００</TD><TD>おたく＋</TD></TR>
+<TR><TD>ゲームデザイナー</TD><TD>スランプ</TD><TD>１：一緒に考える</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：参考資料を渡す</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：絵を描く</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：アイディアをまとめる</TD><TD>色気＋</TD></TR>
+<TR><TD>ＤＪ</TD><TD>スタジオ見学</TD><TD>１：娘のサインをもらう</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：仕事ぶりをみる</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：手を振る</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：曲をリクエストする</TD><TD>おたく＋</TD></TR>
+<TR><TD>－</TD><TD>就職試験</TD><TD>１：動物学者</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD>（全１０問　合格率５０％）</TD><TD>２：オペラ歌手</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：落語家</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：棋士</TD><TD>わんぱく＋</TD></TR>
+<TR><TD>動物学者</TD><TD>休日に</TD><TD>１：そっとしておく　　　　　　　　０</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：服をプレゼント　　　５００００</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：豪華な食事　　　　　３００００</TD><TD>わんぱく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：家族旅行　　　　　１５００００</TD><TD>まじめ＋</TD></TR>
+<TR><TD>オペラ歌手</TD><TD></TD><TD>１：</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>２：</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>３：</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>４：</TD><TD></TD></TR>
+<TR><TD>落語家</TD><TD>スランプ</TD><TD>１：一件落着</TD><TD>わんぱく＋</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>２：めでてぇなー</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：お後がよろしいようで</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：次回に続く</TD><TD>おたく＋</TD></TR>
+<TR><TD>棋士</TD><TD>瞑想状態に入る</TD><TD>１：話し掛ける　　　　　０</TD><TD>まじめ＋</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>２：おどかす　５０００</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>３：歌を歌う　３０００</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>４：催眠術で戻す　　５００</TD><TD></TD></TR>
+<TR><TD>－</TD><TD>就職試験</TD><TD>１：オリンピック選手</TD><TD>まじめ＋</TD></TR>
+<TR><TD></TD><TD>（全１０問　合格率７０％）</TD><TD>２：国際動物救助隊</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>３：石油王</TD><TD>おたく＋</TD></TR>
+<TR><TD>オリンピック選手</TD><TD>何かしてあげる</TD><TD>１：応援する</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>２：シューズを贈る</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>３：秘密特訓</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>４：敵チームの偵察</TD><TD>おたく＋</TD><TD></TD></TR>
+<TR><TD>国際動物救助隊</TD><TD>救助シーンがＴＶ中継</TD><TD>１：録画する</TD><TD>おたく＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>２：現場に駆けつける</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>３：近所中に自慢</TD><TD>色気＋</TD></TR>
+<TR><TD></TD><TD></TD><TD>４：親戚一同に知らせる</TD><TD></TD></TR>
+<TR><TD>石油王</TD><TD>何か買ってもらう</TD><TD>１：</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>２：</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>３：</TD><TD></TD></TR>
+<TR><TD></TD><TD></TD><TD>４：</TD><TD>おたく＋</TD></TR>
+</TABLE>
+
+<p></p>
+</td></tr>
+</table>
+
+<HR>
+<H6 ALIGN=RIGHT><A HREF="index.html">戻る</A></H6>
+<img src="../../Image/dummy.gif" width="100%" height="4" border="0"> <!--contents end--><!--footer start--> </div></font></body> 
+</html>
+<!--footer end-->
