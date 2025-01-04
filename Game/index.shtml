@@ -1,4 +1,14 @@
-<html><head><BASE HREF="https://shi-papa1967.github.io/quiztpl/Game/">
+<html><head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CXVZJ9S2M9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CXVZJ9S2M9');
+</script>
+<BASE HREF="https://shi-papa1967.github.io/quiztpl/Game/">
 
 <title>♪♪　トッペルさんの部屋　クイズゲームで遊ぼう　♪♪</title>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=UTF-8">
@@ -18,7 +28,7 @@
 </small></DIV></FONT>
 <CENTER>
   <br>
-  <h3>借り物掲示板間違ってました... 直しました。<BR>あと、とりあえず過去ログをダウンロードできる様にしました。<BR>
+  <h3>GitHubにホームページ移行しました。<BR>トップページ以外はほとんど文字化けてますが、そのうち直します。<BR>
   </h3>
 </center>
 
@@ -44,7 +54,6 @@
      <td width="220"> <div align="right"><font size="-1"> - </font></div> </td>
     </tr>
     <tr> 
-<!---<td width="320"> <a href="http://8724.teacup.com/tpl/bbs"><small>借り物掲示板（teacup版 8/1でサービス終了予定）</small></a> </td>--->
      <td width="320"> <a href="Data/teacupBBS.zip" download="teacupBBS.zip"><small>借り物掲示板(teacup版)の過去ログをダウンロード</small></a></td>
      <td width="220"> <div align="right"><font size="-1"> - </font></div> </td>
     </tr>
