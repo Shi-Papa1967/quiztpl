@@ -55,11 +55,11 @@
      <td width="220"> <div align="right"><font size="-1"> - </font></div> </td>
     </tr>
     <tr> 
-     <td width="320"> <a href="Data/mewbbs.zip" download="mewbbs.zip"><small>懐かしの掲示板(newbbs版)の過去ログをダウンロード</small></a></td>
-     <td width="220"> <div align="right"><font size="-1"> - </font></div> </td>
+     <td width="340"> <a href="Data/mewbbs.zip" download="mewbbs.zip"><small>懐かしの掲示板(newbbs版)の過去ログをダウンロード</small></a></td>
+     <td width="200"> <div align="right"><font size="-1"> - </font></div> </td>
     <tr> 
-     <td width="320"> <a href="Data/Z-ZBOARD.zip" download="Z-ZBOARD.zip"><small>借り物掲示板(Z-Z BOARD版)の過去ログをダウンロード</small></a></td>
-     <td width="220"> <div align="right"><font size="-1"> - </font></div> </td>
+     <td width="340"> <a href="Data/Z-ZBOARD.zip" download="Z-ZBOARD.zip"><small>借り物掲示板(Z-Z BOARD版)の過去ログをダウンロード</small></a></td>
+     <td width="200"> <div align="right"><font size="-1"> - </font></div> </td>
     <tr> 
      <td width="320"> <a href="Data/teacupBBS.zip" download="teacupBBS.zip"><small>借り物掲示板(teacup版)の過去ログをダウンロード</small></a></td>
      <td width="220"> <div align="right"><font size="-1"> - </font></div> </td>
@@ -118,13 +118,15 @@
    <table border="0" cellspacing="2">
     <tr> 
      <td width="320"> <a href="Game/Nijiiro/index.html"><small>虹色町の奇跡（カプコン）</small></a> </td>
-     <td width="220"> <div align="right"><font size="-1"> <!--#flastmod file="./Game/Nijiiro/index.html"--> </font></div> </td>
+     <td width="220"> <div align="right"><font size="-1"></font></div> </td>
     </tr>
    </table>
+--->
+<!---
    <table border="0" cellspacing="2">
     <tr> 
      <td width="320"> <a href="Game/Ronpers/index.html"><small>ＰＳ版ロンパース（ナムコ）</small></a> </td>
-     <td width="220"> <div align="right"><font size="-1"> <!--#flastmod file="./Game/Ronpers/index.html"--> </font></div> </td>
+     <td width="220"> <div align="right"><font size="-1"></font></div> </td>
     </tr>
    </table>
 --->
