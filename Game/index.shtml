@@ -18,17 +18,18 @@
 <body bgcolor="#FFFFFF" ALINK="#FFFFFF" leftmargin="5" topmargin="5" marginwidth="0" marginheight="0">
 <IMG SRC="Image/dummy.gif" WIDTH="700" HEIGHT="1"><br>
 <!--header start-->
-<SAMP><small>LastUpDate <!--#config timefmt="%y/%m/%d %X"--><!--#echo var="LAST_MODIFIED"--> </small></SAMP> 
+<SAMP><small>LastUpDate 2025.01.05 </small></SAMP> 
 <CENTER><FONT size="6"><FONT color="#1FE048"><B>ト</b></FONT><B><FONT color="#1FE048">ッ</FONT><FONT color="#3FC050">ペ</FONT><FONT color="#5FA058">ル</FONT><FONT color="#7F8060">さ</FONT><FONT color="#9F6068">ん</FONT><FONT color="#BF4070">の</FONT><FONT color="#DF2078">部</FONT><FONT color="#FF0080">屋</FONT></B></FONT>
 </CENTER>
 <DIV align=center>
 <small>1997.09.20より あなたは
-<!--タグはここから--><table border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="http://www.rays-counter.com/"><img src="http://www.rays-counter.com/d312_f6_022/55ac6674e9300/" alt="アクセスカウンター" border="0"></a></td></tr><tr><td align="center"><img src="http://www.rays-counter.com/images/counter_01.gif" border="0"><img src="http://www.rays-counter.com/images/counter_02.gif" border="0"><img src="http://www.rays-counter.com/images/counter_03.gif" border="0" alt=""><img src="http://www.rays-counter.com/images/counter_04.gif" border="0"><img src="http://www.rays-counter.com/images/counter_05.gif" border="0" ></td></tr></table><!--ここまで-->
+<!-- CountAPIを使用したカウンター -->
+<a href="https://www.freecounterstat.com" title="html code for visitor counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=15zmu34t14f19q9yzs9g4lxcw1lb8afu" border="0" title="html code for visitor counter" alt="html code for visitor counter"></a>
 人目のクイズゲーマーです。
 </small></DIV></FONT>
 <CENTER>
   <br>
-  <h3>GitHubにホームページ移行しました。<BR>トップページ以外はほとんど文字化けてますが、そのうち直します。<BR>
+  <h3>GitHub Pagesにホームページ移行しました。<BR>来訪者カウンターが重すぎてうまく動作していないです。よさげなものを探しています。<BR>古の過去の掲示板ログをダウンロードできる様にしました。<BR>
   </h3>
 </center>
 
@@ -54,6 +55,8 @@
      <td width="220"> <div align="right"><font size="-1"> - </font></div> </td>
     </tr>
     <tr> 
+     <td width="320"> <a href="Data/teacupBBS.zip" download="mewbbs.zip"><small>懐かしの掲示板(newbbs版)の過去ログをダウンロード</small></a></td>
+     <td width="320"> <a href="Data/teacupBBS.zip" download="Z-Z BOARD.zip"><small>借り物掲示板(Z-Z BOARD版)の過去ログをダウンロード</small></a></td>
      <td width="320"> <a href="Data/teacupBBS.zip" download="teacupBBS.zip"><small>借り物掲示板(teacup版)の過去ログをダウンロード</small></a></td>
      <td width="220"> <div align="right"><font size="-1"> - </font></div> </td>
     </tr>
@@ -129,7 +132,7 @@
       <TD> 
         <br>
         <div align="center"><IMG src="Image/dummy.gif" width="20" height="1" boarder="0"><small>Copyright(C) 
-          1998,2022<i>TPL</i> 
+          1998,2025<i>TPL</i> 
           All Rights Reserved.</small><BR>
         </div>
       </TD>
