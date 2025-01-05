@@ -29,7 +29,7 @@
 </small></DIV></FONT>
 <CENTER>
   <br>
-  <h3>GitHub Pagesにホームページ移行しました。<BR>来訪者カウンターが重すぎてうまく動作していないです。よさげなものを探しています。<BR>古の過去の掲示板ログをダウンロードできる様にしました。<BR>
+  <h3>GitHub Pagesにホームページ移行しました。<BR>来訪者カウンターを変更しました。<BR>古の過去の掲示板ログをダウンロードできる様にしました。<BR>
   </h3>
 </center>
 
@@ -55,8 +55,12 @@
      <td width="220"> <div align="right"><font size="-1"> - </font></div> </td>
     </tr>
     <tr> 
-     <td width="320"> <a href="Data/teacupBBS.zip" download="mewbbs.zip"><small>懐かしの掲示板(newbbs版)の過去ログをダウンロード</small></a></td>
-     <td width="320"> <a href="Data/teacupBBS.zip" download="Z-Z BOARD.zip"><small>借り物掲示板(Z-Z BOARD版)の過去ログをダウンロード</small></a></td>
+     <td width="320"> <a href="Data/mewbbs.zip" download="mewbbs.zip"><small>懐かしの掲示板(newbbs版)の過去ログをダウンロード</small></a></td>
+     <td width="220"> <div align="right"><font size="-1"> - </font></div> </td>
+    <tr> 
+     <td width="320"> <a href="Data/Z-ZBOARD.zip" download="Z-ZBOARD.zip"><small>借り物掲示板(Z-Z BOARD版)の過去ログをダウンロード</small></a></td>
+     <td width="220"> <div align="right"><font size="-1"> - </font></div> </td>
+    <tr> 
      <td width="320"> <a href="Data/teacupBBS.zip" download="teacupBBS.zip"><small>借り物掲示板(teacup版)の過去ログをダウンロード</small></a></td>
      <td width="220"> <div align="right"><font size="-1"> - </font></div> </td>
     </tr>
@@ -117,8 +121,6 @@
      <td width="220"> <div align="right"><font size="-1"> <!--#flastmod file="./Game/Nijiiro/index.html"--> </font></div> </td>
     </tr>
    </table>
---->
-<!---
    <table border="0" cellspacing="2">
     <tr> 
      <td width="320"> <a href="Game/Ronpers/index.html"><small>ＰＳ版ロンパース（ナムコ）</small></a> </td>
